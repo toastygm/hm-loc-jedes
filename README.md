@@ -47,3 +47,6 @@ from the ‘Kaldor Kingdom Module’ and to N. Robin Crossby.
 
 This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)",
 a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby (Kelestia Productions).
+
+Some assets used to create the maps in this module are from
+[Forgotton Adventures](https://www.forgotten-adventures.net/).
