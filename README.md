@@ -1,5 +1,7 @@
 # HârnWorld Location Module: Jedes Keep
 
+![Jedes Keep](assets/images/jedes-keep.webp)
+
 Jedes keep is a "Location Module" for the Foundry VTT system. It is designed to depict
 the Jedes keep in the kingdom of Kaldor, on the island of Hârn in the
 [HârnWorld](https://columbiagames.com/harnworld/) fantasy setting; however, this keep
