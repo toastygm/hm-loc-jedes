@@ -25,6 +25,12 @@
       "path": "packs/scenes.db"
     },
     {
+      "label": "Jedes - Macros",
+      "entity": "Macro",
+      "name": "macros",
+      "path": "packs/macros.db"
+    },
+    {
       "label": "Jedes - Journal",
       "entity": "JournalEntry",
       "name": "journals",

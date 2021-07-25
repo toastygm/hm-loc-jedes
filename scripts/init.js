@@ -38,7 +38,7 @@
    * Set to the following to disable:
    *   const macroPacks = [];
    */
-  const macroPacks = [];
+  const macroPacks = [`${moduleName}.macros`];
   /**
    * playlistPacks is a list of compendium packs to look in for Playlists by name (in prioritised order).
    * The first entry here assumes that you have a Playlist pack in your module with the "name" of "playlists".
