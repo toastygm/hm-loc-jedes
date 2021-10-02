@@ -25,6 +25,59 @@ Jedes is not a rough frontier settlement, but the last remnant of the ancient Ki
 Tarwyn. A land of fertile fields, fat cattle, and sturdy forest ponies, Jedes and the
 region is a renowned centre of horse breeding.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Jedes Village
+
+Map of Jedes Village, including the keep.
+
+<img src="assets/scenes/jedes-map.webp" alt="Jedes Village" width="600"/>
+
+## Fallen Tower Inn
+
+<img src="assets/scenes/fallen-tower-inn.webp" alt="Fallen Tower Inn" width="600"/>
+
+## Castle Field
+
+Ground level.
+
+<img src="assets/scenes/castle-field-ground.webp" alt="Castle Field Ground" width="600"/>
+
+Upper level.
+
+<img src="assets/scenes/castle-field-upper.webp" alt="Castle Field Upper" width="600"/>
+
+## Jedes Keep
+
+Cellar and Oubliette.
+
+<img src="assets/scenes/keep-lower.webp" alt="Jedes Keep Lower" width="600"/>
+
+Ground level.
+
+<img src="assets/scenes/keep-ground.webp" alt="Jedes Keep Ground" width="600"/>
+
+First floor: Great Hall.
+
+Second floor: Ladies' Gallery.
+
+<img src="assets/scenes/keep-main.webp" alt="Jedes Keep Main" width="600"/>
+
+Third floor: Upper hall and senior retainers.
+
+Fourth floor: Constable's chambers, royal chambers, and chapel.
+
+<img src="assets/scenes/keep-upper.webp" alt="Jedes Keep Upper" width="600"/>
+
+Roof and towers.
+
+<img src="assets/scenes/keep-roof-and-towers.webp" alt="Jedes Keep Roof and Towers" width="600"/>
+
+
 # Credits
 
 This module is made possible by the hard work of Neil Thompson and other HârnWorld fans,
