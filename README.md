@@ -1,4 +1,7 @@
 # HârnWorld Location Module: Jedes Keep
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-loc-jedes)](https://github.com/toastygm/hm-loc-jedes/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-loc-jedes&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-loc-jedes)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-loc-jedes/releases/latest&color=green)](https://github.com/toastygm/hm-loc-jedes/releases/latest)
 
 ![Jedes Keep](assets/images/jedes-keep.webp)
 
