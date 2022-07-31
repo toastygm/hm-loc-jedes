@@ -1,46 +1,54 @@
 {
-  "name": "hm-loc-jedes",
+  "id": "hm-loc-jedes",
   "title": "Jedes Keep",
   "description": "Location details and characters for the Jedes keep in the Kingdom of Kaldor",
-  "version": "1.1.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-loc-jedes/issues",
   "license": "LICENSE",
   "readme": "README.md",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
   "packs": [
     {
-      "label": "Jedes - Scenes",
-      "entity": "Scene",
+      "label": "Jedes Scenes",
+      "type": "Scene",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "flags": {}
     },
     {
-      "label": "Jedes - Journal",
-      "entity": "JournalEntry",
+      "label": "Jedes Journals",
+      "type": "JournalEntry",
       "name": "journals",
-      "path": "packs/journals.db"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
+      "path": "packs/journals.db",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-jedes/",
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
   "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-jedes/releases/v1.2.0/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
