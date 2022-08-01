@@ -2,7 +2,7 @@
   "id": "hm-loc-jedes",
   "title": "Jedes Keep",
   "description": "Location details and characters for the Jedes keep in the Kingdom of Kaldor",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "bugs": "https://github.com/toastygm/hm-loc-jedes/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -48,7 +48,7 @@
     ]
   },
   "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-jedes/releases/v1.2.0/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-jedes/releases/download/v1.2.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
