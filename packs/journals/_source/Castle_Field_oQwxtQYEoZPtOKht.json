@@ -1,0 +1,211 @@
+{
+  "name": "Castle Field",
+  "pages": [
+    {
+      "name": "[C1] The Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>The constable keeps eight palfreys, six heavy warhorses, and ten light warhorses for the light horse squadron. This is more than the fourteen stalls can hold, so the stables are always full and busy. A half-squadron of light horse regularly patrol the hundred, keeping five or six horses away for three days at a time and easing the pressure on the stables. The light horse squadron are responsible for their own mounts, which also reduces Ferot’s otherwise heavy workload. The horses are put out to pasture each morning.</p>\n<p>The stable lass, brown-haired, 17-year-old Jaythe of Tannis, sleeps in the loft. Aelstor Kaphin often pays her visits at night.</p>",
+        "format": 1
+      },
+      "_id": "zGSR0kjUWkHgwtqE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.zGSR0kjUWkHgwtqE"
+    },
+    {
+      "name": "[C2] Common Room",
+      "type": "text",
+      "text": {
+        "content": "<p>The light horse squadron breakfast and socialise in this room but eat their main meals in the great hall with the other keep staff. It is sparsely furnished and often empty. Until last year this room was the chambers of the bonded weaponcrafter. As the current weaponcrafter is the ostler’s wife, it is no longer needed for this purpose.</p>",
+        "format": 1
+      },
+      "_id": "xzXG5ok7wKcIzaHT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.xzXG5ok7wKcIzaHT"
+    },
+    {
+      "name": "[C3] Weaponcrafter’s Workshop",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "qzZISTyOwOVAhtAL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.qzZISTyOwOVAhtAL"
+    },
+    {
+      "name": "[C4] Ostler’s Workshop",
+      "type": "text",
+      "text": {
+        "content": "<p>Ferot and Barda share the three rooms adjacent to the stables.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.O3mik7XL0KSUt5qY]{Bonded Ostler Ferot of Cets}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.l8wbmRK1Aa41lqno]{Bonded Weaponcrafter Barda of Cets}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "BWOEd58mAjObyPHH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.BWOEd58mAjObyPHH"
+    },
+    {
+      "name": "[C5] 1st Manus LH Bunkroom",
+      "type": "text",
+      "text": {
+        "content": "<p>The first manus of the light horse squadron are quartered here. Molarin Chastyn has the bed by the door.</p>\n<h3>The First Manus</h3>\n<ul>\n<li><strong>Molarin (sergeant) Chastyn of Arwyn</strong> is the senior NCO of the squadron. He is 33 years old and now putting on weight. Chastyn joined the squadron after winning two of the horse races in 705. He claims to be from Minarsas.</li>\n<li><strong>Slayne of Dalgath</strong> is originally from Feneven, where his eldest brother is a yeoman. He is the same age as Chastyn, with whom he is very close.</li>\n<li><strong>Rubart of Karlis</strong>, 20, is the son of Oldros, a yeoman in Novelim. His brother is also in the squadron.</li>\n<li><strong>Vyra of Dalgath</strong> is 22 and one of two female riders. Also from Feneven she is Slayne’s niece.</li>\n<li><strong>Eriel of Snew</strong> is only 16. Slender, lithe, and light, she won two of last year’s races, one by a large margin. She is still adjusting to life in the barracks. Her brother is also in the squadron.</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "lbEC85Ot4qydUd4r",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.lbEC85Ot4qydUd4r"
+    },
+    {
+      "name": "[C6] 2nd Manus LH Bunkroom",
+      "type": "text",
+      "text": {
+        "content": "<p>The second manus of the light horse squadron are quartered here. Arkalin Arbogar has the bed by the door.</p>\n<h3>The Second Manus</h3>\n<ul>\n<li><strong>Arkalin (lance corporal) Arbogar of Torelin</strong> is 45 years old. He is not as fast as he once was, but he is an experienced rider and warrior. Arbogar acts as trainer for the squadron.</li>\n<li><strong>Derk of Karlis</strong> is the 18-year-old brother of Rubart.</li>\n<li><strong>Andasin of Snew</strong> is the 24-year-old brother of Eriel.</li>\n<li><strong>Nills of Ardin</strong>, 25, is from Dithend, where his father is the metalsmith.</li>\n<li><strong>Sarrak of Serel</strong>, 45, is from Mowich.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "UEmxspInCFDQWlYe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.UEmxspInCFDQWlYe"
+    },
+    {
+      "name": "[C7] Guard Commander’s Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>This room is shared by the two noble Lieutenants. Recently appointed, Sir Stok is uncomfortable about sharing sleeping quarters with Lady Blyra. She seems unconcerned by the arrangement.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.rX9VrQuzxP8sYA0Z]{Lieutenant Blyra Poulty}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.QA3fGKuTyZtQE9ob]{Lieutenant Stok Mirdarne}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "1EYrGTCQtSwqt94v",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!oQwxtQYEoZPtOKht.1EYrGTCQtSwqt94v"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566779,
+    "modifiedTime": 1659204566779,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "oQwxtQYEoZPtOKht",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!oQwxtQYEoZPtOKht"
+}

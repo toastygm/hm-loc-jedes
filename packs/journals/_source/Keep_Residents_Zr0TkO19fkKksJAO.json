@@ -1,0 +1,938 @@
+{
+  "name": "Keep Residents",
+  "pages": [
+    {
+      "name": "Ashesa Arbogar Kayn",
+      "type": "text",
+      "text": {
+        "content": "<p>Arbogar Kayn is a cheeky and cheerful 19-year-old with dark hair, pale skin, and a pox-marked, though still attractive, face. He is fit, active, healthy, and hardworking but his cheerfulness and humour grate upon Narrath, so Arbogar is constantly in trouble.</p>\n<p>Ashesa (Acolyte) to @UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.IDyvRzImZp2O9vnd]{Matakea Narrath Yarquane, Chaplain}.</p>",
+        "format": 1
+      },
+      "_id": "OIxXsSgAOYnxA0aX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.OIxXsSgAOYnxA0aX"
+    },
+    {
+      "name": "Ashesa Krayg Smadyn",
+      "type": "text",
+      "text": {
+        "content": "<p>Krayg Smadyn is 21, thick-set, and round-faced. Gruff and unfriendly, Krayg is dismissive of anyone he considers beneath him. He is pompous and almost as humourless as Narrath. Consequently, Narrath forgives his many mistakes, because Krayg has “the right attitude”.</p>\n<p>Ashesa (Acolyte) to @UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.IDyvRzImZp2O9vnd]{Matakea Narrath Yarquane, Chaplain}.</p>",
+        "format": 1
+      },
+      "_id": "13ObyzLXx6FD7ZT6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.13ObyzLXx6FD7ZT6"
+    },
+    {
+      "name": "Bonded Clothier Julan of Padek",
+      "type": "text",
+      "text": {
+        "content": "<p>A tall, thin, softly spoken, and effeminate man in his mid forties, Julan is a friend and confidante of the noble ladies. He has a fine eye for detail and is an excellent embroiderer. Julan does much of his work in @UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.YfjsA9B1NNK5FN5W]{[K2] Ladies’ Gallery and Solar}, which has led most of the men-at-arms to refer to him as “Lady Julan”.</p>",
+        "format": 1
+      },
+      "_id": "HWHyuOwPhxQRNNJZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.HWHyuOwPhxQRNNJZ"
+    },
+    {
+      "name": "Bonded Ostler Ferot of Cets",
+      "type": "text",
+      "text": {
+        "content": "<p>Ferot of Cets is a thin, wiry man of average height with jet black hair. Ferot is in his late twenties. His father was ostler before him, but was killed falling from his horse during last year’s race. Ferot had been travelling as a journeyman at the time, but returned to take over the franchise, bringing his wife, Barda, with him.</p>",
+        "format": 1
+      },
+      "_id": "O3mik7XL0KSUt5qY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.O3mik7XL0KSUt5qY"
+    },
+    {
+      "name": "Bonded Weaponcrafter Barda of Cets",
+      "type": "text",
+      "text": {
+        "content": "<p>Barda of Cets is a weaponcrafter of some skill. Soon after her arrival Sir Shernath dismissed the previous bonded weaponcrafter, Darik of Sed. Darik has been reduced to a wandering journeyman, and harbours a lasting grudge against both Barda and her husband, Ferot. He rarely returns to Jedes, but spreads cruel lies against the couple throughout the region [see <a href=\"https://www.lythia.com/harnworld/settlements/asolade-hundred/\">Asolade Hundred</a> p6].</p>\n<p>Barda is an attractive woman with long dark hair. Sergeant Straken describes her as “well proportioned, but not to scale”. She stands eight inches taller than her husband and is much stronger than he. Barda has an explosive temper and is likely to throw things, preferably large and heavy, if provoked. Fortunately, she is fairly inaccurate. She rarely loses her temper with her husband, and even when she does he has a knack for quickly and rationally calming her down.</p>",
+        "format": 1
+      },
+      "_id": "l8wbmRK1Aa41lqno",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.l8wbmRK1Aa41lqno"
+    },
+    {
+      "name": "Captain Osric Mirdarne Image",
+      "src": "modules/hm-loc-jedes/assets/images/captain-osric-mirdarne.webp",
+      "type": "image",
+      "image": {
+        "caption": "Captain Osric Mirdarne"
+      },
+      "_id": "ETEckKBv7HC5eML0",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.ETEckKBv7HC5eML0"
+    },
+    {
+      "name": "Captain Osric Mirdarne",
+      "src": "modules/hm-loc-jedes/assets/images/captain-osric-mirdarne.webp",
+      "type": "text",
+      "image": {
+        "caption": "Captain Osric Mirdarne"
+      },
+      "_id": "TKOU8wvLNWGnZ5qe",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/captain-osric-mirdarne.webp\" width=\"232\" height=\"320\" /></p>\n<p>Captain Osric, 43, commands the permanent garrison. More headstrong than his brother, Osric would rather fight than negotiate. He is, however, fiercely loyal to his brother and to the earl. Fed and housed by Clan Dariune for over twenty years, Sir Osric appreciates his good fortune.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.TKOU8wvLNWGnZ5qe"
+    },
+    {
+      "name": "Falconer Faraq mah Moohd",
+      "type": "text",
+      "text": {
+        "content": "<p>Faraq is tall, weather-beaten, and swarthy. A recent addition to the constable’s staff, he claims to be from Azeryan.</p>",
+        "format": 1
+      },
+      "_id": "9KMi0oZ2pcbiPo4R",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.9KMi0oZ2pcbiPo4R"
+    },
+    {
+      "name": "Goose Girl Yma of Luren",
+      "type": "text",
+      "text": {
+        "content": "<p>Yma of Luren is the 13-year-old daughter of the reeve (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.HKw9O1JK3DGPr5Ve]{[38] Reeve Peser of Luren}) and the keep’s goose girl. She sleeps in the goose house, a small circular wattle-and-daub building between the stables and the river.</p>\n<p>Sir Shernath has no great love of hunting and dislikes dogs. While many local manors allow dogs to roam free at night, the constable keeps geese. He likes to break his fast each morning with a goose egg or two and is fond of roast goose. He often enquires as to the health of his birds. As a consequence Yma can often be seen in conversation with the constable. This sets her apart from the other village children. Yma is the only unfree resident of Jedes allowed the run of the keep. Neither the guards nor the servants ever stop or question her. If she wishes to speak to the constable, he will make time for her; she is intelligent enough not to interrupt any important discussions, especially between nobles.</p>\n<p>All of the geese have had their wings clipped. They are fiercely territorial and are kept in the goose house when important visitors are expected. Yma is tasked with keeping the flock in order and getting them back into the yard each night, a job she has been carrying out successfully for three years. Yma is an excellent swimmer and sometimes swims across the Kald to collect a wayward bird. She used to swim naked, but as she is maturing her father has insisted that she be clothed; she does not always obey. Yma can usually be found in the vicinity of the keep, her willow goose wand in her hands.</p>",
+        "format": 1
+      },
+      "_id": "MsEEJp7FzdBww1FE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.MsEEJp7FzdBww1FE"
+    },
+    {
+      "name": "Huntsman Johan of Kerem",
+      "type": "text",
+      "text": {
+        "content": "<p>A short, sturdy young man with a surprisingly high-pitched voice</p>",
+        "format": 1
+      },
+      "_id": "VZDWt4p86uNYR684",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.VZDWt4p86uNYR684"
+    },
+    {
+      "name": "Lady Bethan Poulty, Lady-in-Waiting Image",
+      "src": "modules/hm-loc-jedes/assets/images/lady-bethan-poulty.webp",
+      "type": "image",
+      "image": {
+        "caption": "Lady Bethan Poulty, Lady-in-Waiting"
+      },
+      "_id": "U2cksjvcREhuibQ6",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.U2cksjvcREhuibQ6"
+    },
+    {
+      "name": "Lady Bethan Poulty, Lady-in-Waiting",
+      "src": "modules/hm-loc-jedes/assets/images/lady-bethan-poulty.webp",
+      "type": "text",
+      "image": {
+        "caption": "Lady Bethan Poulty, Lady-in-Waiting"
+      },
+      "_id": "pphXozLwieUW7ol9",
+      "text": {
+        "content": "<p><img src=\"modules/hm-loc-jedes/assets/images/lady-bethan-poulty.webp\" width=\"267\" height=\"372\" /></p>\n<p>Lady Bethan, the 33-year-old wife of Sir Tamys (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.UY77z5KFUsXpoGCB]{Sir Tamys Poulty, Chamberlain}), is stocky and round-faced, with plain features and blonde hair. She was born and raised in the village of Yalen, which is only a thirty minute walk from Jedes. Her father, Sir Danard, died over the winter and her only brother, Alarn, is making many changes to the fief he has inherited. Lady Bethan disagrees with these changes and relations between the siblings are strained.</p>\n<p>Lady Bethan is lady-in-waiting to her sister-in-law, with whom she gets on well. Forthright and practical, with a good head for figures, Bethan is under no illusions about her husband’s competence and oversees his every action to correct any errors.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.pphXozLwieUW7ol9"
+    },
+    {
+      "name": "Lady Esme Mirdarne, Lady-in-Waiting",
+      "type": "text",
+      "text": {
+        "content": "<p>The short, slender, and frail Lady Esme is married to Sir Osric, the captain of the guard. Her husband dotes on her and, even after twenty-six years of marriage, still calls her his precious flower. Another of Jenya’s ladies-in-waiting, Esme is a fluttering, vacuous woman, interested in little else but fashion and perfume. The practical Lady Jenya has little time for her. Lady Esme is, however, a formidable gossip who often hears rumours of which even Helarn is unaware. Esme tells her husband everything, and he in turn tells his brother.</p>",
+        "format": 1
+      },
+      "_id": "k5WLl9odjLmI4cWM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.k5WLl9odjLmI4cWM"
+    },
+    {
+      "name": "Lady Helarn Poulty, Chancellor of the Keep Image",
+      "src": "modules/hm-loc-jedes/assets/images/lady-helarn-poutry.webp",
+      "type": "image",
+      "image": {
+        "caption": "Lady Helarn Poulty, Chancellor of the Keep"
+      },
+      "_id": "XWicmFqsznwm1x39",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.XWicmFqsznwm1x39"
+    },
+    {
+      "name": "Lady Helarn Poulty, Chancellor of the Keep",
+      "src": "modules/hm-loc-jedes/assets/images/lady-helarn-poutry.webp",
+      "type": "text",
+      "image": {
+        "caption": "Lady Helarn Poulty, Chancellor of the Keep"
+      },
+      "_id": "x84KzqfInScK4VMj",
+      "text": {
+        "content": "<p><img src=\"modules/hm-loc-jedes/assets/images/lady-helarn-poutry.webp\" width=\"303\" height=\"303\" /></p>\n<p>Lady Helarn, 52, is the widow of Jenya’s uncle and sister to Sir Garith Kaphin, bailiff of Skaist. Helarn acts as bailiff for the estates and is one of the constable’s most trusted advisors. Pragmatic and intelligent, she works closely with Sir Jassyff and Sir Callam checking the revenues received from the estates subinfeudated to Jedes. She ignores Sir Tamys, and frequently advises her niece to do the same.</p>\n<p>Lady Helarn is a distant cousin of Lady Erila Kaphin, the Lord Privy Seal and the king’s mistress. The two women were once close but fell out over Lady Erila’s son, Tulath, who tried to borrow money from the Asolade branch of the clan. Helarn regards Tulath as weak, vacillating, and incompetent. It was, however, an error of judgement to inform Lady Erila of her opinion.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.x84KzqfInScK4VMj"
+    },
+    {
+      "name": "Lady Jenya Mirdarne, Lady of the Keep Image",
+      "src": "modules/hm-loc-jedes/assets/images/lady-jenya-mirdarne.webp",
+      "type": "image",
+      "image": {
+        "caption": "Lady Jenya Mirdarne, Lady of the Keep"
+      },
+      "_id": "hLELl5v30UtL735U",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.hLELl5v30UtL735U"
+    },
+    {
+      "name": "Lady Jenya Mirdarne, Lady of the Keep",
+      "src": "modules/hm-loc-jedes/assets/images/lady-jenya-mirdarne.webp",
+      "type": "text",
+      "image": {
+        "caption": "Lady Jenya Mirdarne, Lady of the Keep"
+      },
+      "_id": "vs2S5Dl0yNqDjW7t",
+      "text": {
+        "content": "<p><img src=\"modules/hm-loc-jedes/assets/images/lady-jenya-mirdarne.webp\" width=\"316\" height=\"375\" /></p>\n<p>Three years after his arrival in Jedes, Sir Shernath married Jenya, only daughter of the Poulty clanhead. Lady Jenya is friendly, caring, and fond of young children, though she has a sharp tongue and occasionally a fiery temper. She is 5’4”, more stocky than she was in her youth, and her once vivid red hair is beginning to grey. Nevertheless, the lady of the keep remains fit and active.</p>\n<p>Sir Shernath and Lady Jenya have two sons. The eldest, Jannath, was sent at age 10 to study heraldry in the Enclave of the Holy Oak. Now 16, he is a squire in the household of Earl Troda. Jannath is besotted with Merela, the 14-year-old daughter of Princess Cheselyne, and when in Tashal he neglects his duties to be with her. His parents have recently been made aware of this. Lady Jenya regards Merela as a scheming minx, as dangerous as her mother, and worries that Jannath is being led astray. She intends to pay her eldest son a visit.</p>\n<p>The second son, Sumael, 13, is a squire at Bory, the manor of his mother’s family. Lady Jenya visits him as often as she can. [See <a href=\"https://www.lythia.com/harnworld/settlements/asolade-hundred/\">Asolade Hundred</a> for the Clan Mirdarne family tree.]</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.vs2S5Dl0yNqDjW7t"
+    },
+    {
+      "name": "Lieutenant Blyra Poulty",
+      "type": "text",
+      "text": {
+        "content": "<p>Lieutenant Blyra is second-in-command and leads the squadron of light horse. She is tall, sturdily built, and plain-featured. Now in her late twenties, Lady Blyra, the daughter of Lady Helarn (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.x84KzqfInScK4VMj]{Lady Helarn Poulty, Chancellor of the Keep}), joined the Church of Larani as an ashesa at age 14. By age 16, however, she decided to join the Order of the Lady of Paladins, preferring to ride and fight. Five years ago she left the order to take up her current post. Lady Blyra is reputed to be the finest rider in the hundred. The ten horsemen and women under her command are all freemen, not nobles.</p>",
+        "format": 1
+      },
+      "_id": "rX9VrQuzxP8sYA0Z",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.rX9VrQuzxP8sYA0Z"
+    },
+    {
+      "name": "Lieutenant Stok Mirdarne",
+      "type": "text",
+      "text": {
+        "content": "<p>Osric’s second son, Sir Stok, was 21 last year. He commands the medium foot. This duty, which many knights regard as menial, has always been taken seriously by both the constable and the captain, who have impressed on Sir Stok its importance. In addition to the medium foot, Sir Stok is responsible for the training and supervision of the yeomen of the hundred who attend the ten-day muster.</p>\n<p>Sir Stok is tall and burly, like his father. He spent much of his childhood being bullied as the “little” brother of feeble Callam. He learnt to be a brawler at an early age, and he still defends his brother. Despite their physical differences, the brothers are close; Sir Stok jokes that together they make a perfect knight. He often asks Callam for advice.</p>",
+        "format": 1
+      },
+      "_id": "QA3fGKuTyZtQE9ob",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.QA3fGKuTyZtQE9ob"
+    },
+    {
+      "name": "Matakea Narrath Yarquane, Chaplain Image",
+      "src": "modules/hm-loc-jedes/assets/images/larane-chaplain.webp",
+      "type": "image",
+      "image": {
+        "caption": "Matakea Narrath Yarquane, Chaplain"
+      },
+      "_id": "JPTYmR5NMNptGFqs",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.JPTYmR5NMNptGFqs"
+    },
+    {
+      "name": "Matakea Narrath Yarquane, Chaplain",
+      "src": "modules/hm-loc-jedes/assets/images/larane-chaplain.webp",
+      "type": "text",
+      "image": {
+        "caption": "Matakea Narrath Yarquane, Chaplain"
+      },
+      "_id": "IDyvRzImZp2O9vnd",
+      "text": {
+        "content": "<p><img src=\"modules/hm-loc-jedes/assets/images/larane-chaplain.webp\" width=\"176\" height=\"191\" /></p>\n<p>Narrath, 49, is one of only three Laranian priests in the hundred, the other two being at Feneven and Novelim manors. Given who he ministers to, Narrath regards himself as the principal of the three priests, but the others do not acknowledge his supremacy.</p>\n<p>Matakea Narrath is extremely honest and devout. He is renowned throughout the hundred for his strict adherence to church dogma and complete absence of a sense of humour. Narrath sends regular reports to Cerdan Bantire, the Rekela of Pagostra, but can find little to complain about.</p>\n<p>His two Ashesa (acolytes) are:</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.OIxXsSgAOYnxA0aX]{Ashesa Arbogar Kayn}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.13ObyzLXx6FD7ZT6]{Ashesa Krayg Smadyn}</li>\n</ul>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.IDyvRzImZp2O9vnd"
+    },
+    {
+      "name": "Sarali Poulty",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Sarali, 14, is one of the children of Tamys and Bethan Poulty. Like her mother, Sarali is lady-in-waiting to Lady Jenya.</p>\n<p>Sarali is plump and round-faced, with ginger hair. She is a hopeless, if rather gothic, romantic, who can see star-crossed lovers, tragedy, and unfulfilled desire all around her. She is convinced that there are a number of illicit liaisons taking place within the keep. She is convinced that the herald, Sir Jassyff, is conducting a discrete affair and is trying to discover the object of his affections.</p>",
+        "format": 1
+      },
+      "_id": "KgYUJL7ZdZq7V0pi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.KgYUJL7ZdZq7V0pi"
+    },
+    {
+      "name": "Sergeant-at-Arms Straken of Ornelt Image",
+      "src": "modules/hm-loc-jedes/assets/images/straken-of-ornelt.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sergeant-at-Arms Straken of Ornelt"
+      },
+      "_id": "ulodHY1j8JEYDdQY",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.ulodHY1j8JEYDdQY"
+    },
+    {
+      "name": "Sergeant-at-Arms Straken of Ornelt",
+      "src": "modules/hm-loc-jedes/assets/images/straken-of-ornelt.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sergeant-at-Arms Straken of Ornelt"
+      },
+      "_id": "dtPGX5jy5PCE0RxS",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/straken-of-ornelt.webp\" width=\"284\" height=\"347\" /></p>\n<p>The Sergeant-at-Arms of the keep is Straken of Ornelt, who has been at the keep for five years. He joined the garrison at the same time that his former master, Sir Jassyff (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.g7oYy7qOrSrT7MRL]{Sir Jassyff Mazerony, Herald}), became herald. Within the year Straken had been promoted and had married the keep’s alewife and brewer, Karissa, a buxom, earthy woman with a coarse sense of humour.</p>\n<p>Straken, the brother of the yeoman Tornyn (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.aYAiVvDmjgizGi1B]{[41] Yeoman (Shortbow) Tornyn of Ornelt}), is clever and capable. Unusually for a common-born career soldier, he is literate, having been taught to read and write by Jassyff. If Straken has a weakness it is his pride in this achievement; he loves to display his skill by reading publicly.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.dtPGX5jy5PCE0RxS"
+    },
+    {
+      "name": "Sir Callam Mirdarne, Steward",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Callam assists Lady Helarn in assessing the revenue from the surrounding manors. He is the oldest son of the constable’s brother, Sir Osric, captain of the Jedes guard. Callam is a short, frail 25-year-old. Protruding upper teeth and a large beak-like nose interrupt his otherwise plain features. No warrior, he spent his youth being bullied by larger and stronger men. Sir Callam is proving to be a keen and capable administrator, and many of the local knights now wish that they had been a little more friendly toward the man who now assesses their feudal payments.</p>",
+        "format": 1
+      },
+      "_id": "mU21pKzBUW8xDAZQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.mU21pKzBUW8xDAZQ"
+    },
+    {
+      "name": "Sir Jassyff Mazerony, Herald Image",
+      "src": "modules/hm-loc-jedes/assets/images/sir-jasyff-mazerony.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sir Jassyff Mazerony, Herald"
+      },
+      "_id": "1vxvijEUI4yOUQvf",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.1vxvijEUI4yOUQvf"
+    },
+    {
+      "name": "Sir Jassyff Mazerony, Herald",
+      "src": "modules/hm-loc-jedes/assets/images/sir-jasyff-mazerony.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sir Jassyff Mazerony, Herald"
+      },
+      "_id": "g7oYy7qOrSrT7MRL",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/sir-jasyff-mazerony.webp\" width=\"247\" height=\"291\" /></p>\n<p>The herald of Jedes is Sir Jassyff of Mazerony, a tall man in his mid thirties and the younger brother of the Lord of Andrake. He was a famous jouster until seven years ago, when he received a severe blow to the head at the Royal Chelebin Tournament. He appeared to make a full recovery but ever since has been plagued with severe headaches, dizzy spells, and occasional fits. Educated and literate, he became herald to Sir Shernath five years ago.</p>\n<p>Sir Jassyff remains fascinated by arms and armour. In his spare time he is writing a history of the joust in Kaldor, concentrating on the developments in armour and weaponry. He often consults the weaponcrafter Barda of Cets, with whom he has struck up a close platonic friendship. Sergeant Straken, of the Jedes militia, was one of Sir Jassyff’s retinue in his jousting days and remains loyal to his old lord.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.g7oYy7qOrSrT7MRL"
+    },
+    {
+      "name": "Sir Shernath Mirdarne, Constable of Jedes Image",
+      "src": "modules/hm-loc-jedes/assets/images/sir-shernath-mirdarne.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sir Shernath Mirdarne, Constable of Jedes"
+      },
+      "_id": "x5it53OVBjjZiiHI",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.x5it53OVBjjZiiHI"
+    },
+    {
+      "name": "Sir Shernath Mirdarne, Constable of Jedes",
+      "src": "modules/hm-loc-jedes/assets/images/sir-shernath-mirdarne.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sir Shernath Mirdarne, Constable of Jedes"
+      },
+      "_id": "5m6aXD6kEVWF0iFe",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/sir-shernath-mirdarne.webp\" width=\"265\" height=\"306\" /></p>\n<p>Sir Shernath is a clean-shaven man in his mid forties. He stands a couple of inches under six feet in height and is slightly overweight. His once dark hair is now grey at the temples.</p>\n<p>The constable is an old and trusted friend of the Earl Dariune. They met in 682, when the young Troda was fostered at the court of King Torastra at Olokand and Shernath’s father was a member of the king’s guard. The two have been firm friends ever since.</p>\n<p>Upon receiving his knighthood, Shernath became a household retainer in the service of Troda’s father, Earl Scina Dariune, at Kiban. Sir Shernath impressed his new lord and, in 702, was rewarded with the post of constable of Jedes, made vacant by the death of Sir Duns Doulzarn.</p>\n<p>Sir Shernath is a careful, conscientious administrator who, importantly, knows when to delegate. He reputedly shows no favours, but appoints the best man, or woman, to the job. Many local clans would, however, dispute this, as they have seen lucrative posts handed to relatives of the constable and his wife. Nevertheless, incompetence will usually lead to swift dismissal. Sir Shernath delivers his feudal dues, and often more, on time, keeps the local yeomen well-trained, and has improved the Kolorn and Hutop roads. Earl Troda values his friend very highly.</p>\n<p>The earl and his constable meet only two or three times a year. The earl confides in his friend and can rely on him to give an honest opinion, regardless of the earl’s feelings. While the men never argue, they are often blunt to the point of rudeness. Some of Earl Troda’s vassal’s, after witnessing such discussions, assume Sir Shernath’s position is less secure than it actually is.</p>\n<p>In addition to managing the earl’s lands in Asolade, Sir Shernath is often given other tasks. He is currently working on an estimate of expected revenues from Kyg, as the earl is concerned about his income from that part of his holdings. Sir Shernath has been sent copies of the revenues and receipts that the Constable of Kyg sent to Kiban. He suspects that his liege is being swindled, but as yet lacks any proof. He intends to send a small group of trusted investigators to Kyg.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.5m6aXD6kEVWF0iFe"
+    },
+    {
+      "name": "Sir Tamys Poulty, Chamberlain",
+      "type": "text",
+      "text": {
+        "content": "<p><img src=\"modules/hm-loc-jedes/assets/images/sir-tamys-poulty.webp\" width=\"202\" height=\"329\" /></p>\n<p>Sir Tamys is 37 years old and the youngest brother of Lady Jenya (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.vs2S5Dl0yNqDjW7t]{Lady Jenya Mirdarne, Lady of the Keep}). He had few prospects until his sister married and persuaded her husband to employ Tamys as chamberlain. Unfortunately, Tamys is disorganised and inefficient. On several occasions Sir Shernath has been close to dismissing his chamberlain. Tamys has kept his position only through the protection of his sister and the ability of his wife, Bethan (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.pphXozLwieUW7ol9]{Lady Bethan Poulty, Lady-in-Waiting}), to cover for her husband’s lapses. He is well aware of his shortcomings and is extremely grateful to his sister and beloved wife.</p>\n<p>Sir Tamys is 5’7” and has the characteristic Poulty red hair, though it is thinning. He is untidy and forgetful, often muttering under his breath the names or details he must remember. The chamberlain is usually the first noble to meet any visitors. Making a good impression on Sir Tamys can make a huge difference to how visitors are introduced into the constable’s presence.</p>",
+        "format": 1
+      },
+      "_id": "UY77z5KFUsXpoGCB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.UY77z5KFUsXpoGCB"
+    },
+    {
+      "name": "Squire Aelstor Kaphin",
+      "type": "text",
+      "text": {
+        "content": "<p>The senior of Sir Shernath’s two squires, Aelstor is 17 and the youngest son of the bailiff of Skaist. Aelstor has been the constable’s squire for five years and can now anticipate most of his lord’s needs. He is a keen, efficient aide. Lady Helarn is fond of her nephew and is on the lookout for a post for him once he is knighted.</p>\n<p>Aelstor is athletic, charming, witty, and good-looking. Unlike many young men his age, he is at ease in the company of women of all ages. At any social gathering he is surrounded by all the eligible young ladies of the hundred; Aelstor is also popular with the servant-girls. As a consequence, most of the local squires dislike him. His closest friend is Eldaen Katair, squire to Sir Jarrak Vaen, Lord of Feneven.</p>",
+        "format": 1
+      },
+      "_id": "4UMYRxVSjQdbPd7S",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.4UMYRxVSjQdbPd7S"
+    },
+    {
+      "name": "Squire Karison Dariune",
+      "type": "text",
+      "text": {
+        "content": "<p>The junior squire, Karison, is the youngest son of the Earl of Balim. When Karison arrived at Jedes he was an overweight, sullen, and arrogant 12-year-old. He regarded himself as much more important than the “local riff-raff”. He has since matured considerably, though several of the servants still harbour a dislike for the lad. After a rocky beginning to their relationship, Karison now tolerates Aelstor.</p>\n<p>As he approaches his fifteenth birthday, Karison is only a couple of inches under 6’ tall and still growing. He has thick, greasy black hair and is now burly rather than fat. Karison is intensely competitive. He and his good friend Sumael Mirdarne keep a running score of their achievements. Karison is undoubtedly the physically stronger and the better horseman. Sumael is more agile, a better archer, and a much faster swimmer. With sword and shield the boys are evenly matched.</p>",
+        "format": 1
+      },
+      "_id": "MWcYOxZHG2V34poy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.MWcYOxZHG2V34poy"
+    },
+    {
+      "name": "Willem Poulty",
+      "type": "text",
+      "text": {
+        "content": "<p>Willem, 8, is one of the children of Tamys and Bethan Poulty.</p>\n<p>Willem is arrogant and self-important. He talks down to anyone not of noble birth, making him unpopular with the keep’s servants and garrison. Willem sometimes fails to recognise important visitors for who they are, which on occasion has gotten him into trouble.</p>",
+        "format": 1
+      },
+      "_id": "q0P0LPXtXOzBhCvW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Zr0TkO19fkKksJAO.q0P0LPXtXOzBhCvW"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566775,
+    "modifiedTime": 1659204566775,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Zr0TkO19fkKksJAO",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Zr0TkO19fkKksJAO"
+}

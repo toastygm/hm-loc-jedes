@@ -1,0 +1,133 @@
+{
+  "name": "Fallen Tower Inn",
+  "pages": [
+    {
+      "name": "[F1] Common Room Image",
+      "src": "modules/hm-loc-jedes/assets/images/fallen-tower-inn.webp",
+      "type": "image",
+      "image": {
+        "caption": "[F1] Common Room"
+      },
+      "_id": "OtjzhuEGQTTTUdMo",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!sJq8XepjL2x8fWpo.OtjzhuEGQTTTUdMo"
+    },
+    {
+      "name": "[F1] Common Room",
+      "src": "modules/hm-loc-jedes/assets/images/fallen-tower-inn.webp",
+      "type": "text",
+      "image": {
+        "caption": "[F1] Common Room"
+      },
+      "_id": "bhCDNljHuZiGr4YS",
+      "text": {
+        "content": "<p><img style=\"max-width:100%;height:auto\" src=\"modules/hm-loc-jedes/assets/images/fallen-tower-inn.webp\" /></p>\n<p><span style=\"color:#191813\">The large common room is full and busy on market days, but at other times the inn can be very quiet. Even on market days it is rare for all the bedrooms to be occupied. This all changes during the horse fair and in the days before St. Bromel’s Fast, when finding even a patch of floor in common room is difficult.</span></p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!sJq8XepjL2x8fWpo.bhCDNljHuZiGr4YS"
+    },
+    {
+      "name": "[F2] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>Like the common room, this can be a busy place on market days. Locals often barter meat for ale, so meat stew of one sort or another is often on the menu on market days. At most other times the kitchen caters only for the staff. Food is plain, but usually plentiful; trout, pottage, bread, and cheese are always available.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "MOkBbea3XFQU62ya",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!sJq8XepjL2x8fWpo.MOkBbea3XFQU62ya"
+    },
+    {
+      "name": "[F3] Staff Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">Jastrin and Shalya sleep in the small private room, which they currently share with their six-month-old baby daughter, Julyen. Halir sleeps in one of the bunks in the adjacent area, which he shares with Ealfric and his master’s two sons: Bodwyn, aged 5, and Aneuryn, aged 2.</span></p>",
+        "format": 1
+      },
+      "_id": "SCmg6Bg3Tee9Owpb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!sJq8XepjL2x8fWpo.SCmg6Bg3Tee9Owpb"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566781,
+    "modifiedTime": 1659204566781,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "sJq8XepjL2x8fWpo",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!sJq8XepjL2x8fWpo"
+}

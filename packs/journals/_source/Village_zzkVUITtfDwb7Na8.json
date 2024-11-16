@@ -1,0 +1,1625 @@
+{
+  "name": "Village",
+  "pages": [
+    {
+      "name": "[1] Hideworker Laldyne of Kariune",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p>Laldyne of Kariune is in her mid forties, is overweight, and has a heavy jowl. She has never married. While she is highly respected for the quality of her hides and the various leather goods she produces, she has problems with personal cleanliness. Most villagers know, and avoid, her stench and try to do business with her from a distance of several feet. The odour is mostly due to the substances she uses to tan her hides.</p>\n<p>Laldyne does not specialise and will turn her hand to tan any hide and manufacture any leather item. Most villagers own a pair of her crafted shoes or boots. Many nobles own carved or burnt leather scabbards she has made.</p>\n<p>Laldyne employs two journeymen, one of whom, Hadrik, is her nephew. Hadrik’s twin brother, Ferdik, works for their grandfather (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.gXOPQWazZfS2TbHf]{[2] Ratter/Animal Trainer Hectur of Kariune}). Laldyne also employs two apprentices. Her eldest apprentice, 18-year-old Jenar, a hard-drinking young woman, is having an affair with Hadrik.</p>",
+        "format": 1
+      },
+      "_id": "4bdErpv7myjfJV3T",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.4bdErpv7myjfJV3T"
+    },
+    {
+      "name": "[2] Ratter/Animal Trainer Hectur of Kariune",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> ££</p>\n<p>Hectur of Kariune is the uncle of Laldyne (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.4bdErpv7myjfJV3T]{[1] Hideworker Laldyne of Kariune}). Unkempt, dishevelled, and with a ragged grey beard, Hectur walks with a stick. He is bad-tempered and surly, and terrifies the local children. Hectur owns and breeds Trierzi terriers, which he sells as ratters. He keeps the best dogs for himself. His 23-year-old grandson Ferdik takes the dogs around the hundred to provide ratting services.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "gXOPQWazZfS2TbHf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.gXOPQWazZfS2TbHf"
+    },
+    {
+      "name": "[3] Metalsmith Alen of Asane",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ (★) | <strong>Prices:</strong> ££££</p>\n<p>A tall man in his early thirties, Alen of Asane is unmarried (but see (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.FjnJERZ60pofwIRF]{[12] Boatman Uril of Tone})). He employs a journeyman and two apprentices. Alen buys copper direct from the mines and produces good-quality copperware: carved bowls, cups, and so on. Though his copperwork is very good, the local serfs need someone to make and repair ploughs, spades, and other tools. Alen considers himself far too talented for such menial work. In fact, he has little talent at ironcraft and repair work. As such, he is unpopular with the local peasants.</p>\n<p>Gefryn of Garyx, master metalsmith of the hundred, is aware of Alen’s shortcomings. However, being in nearby Belgie, rather than censure Alen, Gefryn simply travels to Jedes every market day and picks up the work for himself.</p>",
+        "format": 1
+      },
+      "_id": "xq3Keucw7miWgNgd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.xq3Keucw7miWgNgd"
+    },
+    {
+      "name": "[4] Miller Neldel of Kerelin",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★★ | <strong>Prices:</strong> £££</p>\n<p>Neldel of Kerelin is 64 years old and has never married. He employs a journeyman and three apprentices. The youngest apprentice, 15-year-old Joshfar, is huge. He learns little, as the frail, old Neldel uses him as a labourer. The journeyman, Hesse of Mardin, is 25 and hopes to soon inherit the franchise. He is looking for a wife, but the choice of freewomen in Jedes is limited. Meanwhile, he pays regular visits to Tryssa and “Long” Laria (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.TuahConctJkKcRJT]{[17] Brothel Erissa of Dryt}).</p>\n<p>It is well known that when Neldel was apprenticed to the old miller at Asolade, both he and fellow apprentice Torbrish of Halam, who is now the master miller there, fell in love with the same girl, Glynda. As the story goes, Neldel’s heart was broken when Torbrish wooed Glynda, and Neldel never looked at another woman. This part of the tale, however, is untrue. Only the three of them know that it was Torbrish, not Glynda, who Neldel loved.</p>\n<p>The mill lies within the castle field, as work on the moat and the mill race were combined when the keep was rebuilt.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "aTqDevwQ00LovFG7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.aTqDevwQ00LovFG7"
+    },
+    {
+      "name": "[5] Cook/Labourer Bardon of Wardle Image",
+      "src": "modules/hm-loc-jedes/assets/images/cook.webp",
+      "type": "image",
+      "image": {
+        "caption": "[5] Cook/Labourer Bardon of Wardle"
+      },
+      "_id": "6fVtKNusiBwpRIRz",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.6fVtKNusiBwpRIRz"
+    },
+    {
+      "name": "[5] Cook/Labourer Bardon of Wardle",
+      "src": "modules/hm-loc-jedes/assets/images/cook.webp",
+      "type": "text",
+      "image": {
+        "caption": "[5] Cook/Labourer Bardon of Wardle"
+      },
+      "_id": "fB839tuXpwA9chBb",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/cook.webp\" width=\"219\" height=\"357\" /></p>\n<p>Bardon of Wardle is the second son of Grasen (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.EHBdpvSwx8j1Xf6P]{[7] Teamster Grasen of Wardle}). Married with two teenage children, he relies on his father and brother for work. He is often away from home, helping his brother and nephews.</p>\n<p>Bardon’s wife, Nyla, is an accomplished cook and baker. She supplements the family’s income by selling meals and pies on market days. Her honey-damson pie is a favourite of the constable.</p>\n<p>Although she has no experience of milling, Nyla is a journeyman of the Miller’s Guild, allowing her to sell her baked goods without guild interference. This is an unusual arrangement, but she was nominated for guild membership by her uncle Neldel (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.aTqDevwQ00LovFG7]{[4] Miller Neldel of Kerelin}).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.fB839tuXpwA9chBb"
+    },
+    {
+      "name": "[6] Yeoman (Medium Foot) Orbil of Arlia",
+      "type": "text",
+      "text": {
+        "content": "<p>Orbil of Arlia is almost six-and-a-half feet tall and has a long, bushy, salt-and-pepper beard. In his late thirties, Orbil is head of his clan, which is the largest in Jedes. His family have been yeomen here for four generations.</p>\n<p>As the village beadle, Orbil works closely with the reeve (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.HKw9O1JK3DGPr5Ve]{[38] Reeve Peser of Luren}). Between them, the two men manage to solve many disputes without bothering Sir Shernath. The simple threat of the constable’s involvement is often enough to allow them to negotiate a settlement. Sir Shernath likes things to run smoothly and he appreciates the men’s work.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "NiAqOIMHJZtIwQmS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.NiAqOIMHJZtIwQmS"
+    },
+    {
+      "name": "[7] Teamster Grasen of Wardle",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p>Grasen of Wardle hauls supplies to the mines and brings the metal back to Jedes, where it is stored before being shipped upriver. Now in his sixties and a widower, Grasen runs the business from home. His eldest son, Dythen, and Dythen’s three sons, do the heavy work.</p>\n<p>The family own two carts, which were both ox-hauled until last year, when Dythen bought two heavy horses to run one of the carts. Dythen is a good friend of the hunter Tes of Eldin (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.mWVPfDu5xz8NNbPG]{[20] Hunter/Trapper Tes of Eldin}), and they are often drink together at the Fallen Tower Inn.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "EHBdpvSwx8j1Xf6P",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.EHBdpvSwx8j1Xf6P"
+    },
+    {
+      "name": "[8] Cartographer/Scribe Kanosh of Aphria",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p><p>As a mercantyler and caravan master, Kanosh of Aphria came to appreciate the value of good, accurate maps. During his many travels throughout southern Hârn, he collected a vast number of maps, some of them costing a fortune. Three years ago, while he was away on business, his house in Tashal burnt to the ground. Kanosh lost his family and most of his wealth in the tragedy. The only thing he had left was his parent’s small home in Jedes. He decided to leave the merchant business and draw maps instead, something he had always done as a pastime.</p>\n<p>Kanosh is thin and sallow-faced with a constantly mournful expression. He is a skilled cartographer and his maps are quite accurate, especially those of the Salt Route and its surrounds. However, Kanosh cannot make a living from his new trade, especially in remote Jedes. To scrape by, he also works as a scribe at the keep.</p>",
+        "format": 1
+      },
+      "_id": "AJCX7KbAPbJYmfwp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.AJCX7KbAPbJYmfwp"
+    },
+    {
+      "name": "[9] Mercantyler Coner of Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p>A widely travelled merchant, Coner of Kleve desperately tries to harness Jedes’s proximity to the Salt Route. He has appealed to the Mangai on several occasions about this matter, but all of his pleas have been futile—until now. Coner has heard rumours that Earl Dariune is interested in bridging the Kald at Jedes. He has recently hired the hunter Tes of Eldin (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.mWVPfDu5xz8NNbPG]{[20] Hunter/Trapper Tes of Eldin}) to scout a new path to Jedes from the Salt Route. Tes is, of course, happy to take his money.</p>\n<p>Coner imports many luxury goods into the hundred. He is a regular visitor to the manor houses and provides fine cloth and wines to most noble households. Coner travels to the market in Tashal each year, leaving the business in the care of his journeyman, Heriber of Hass. Coner also employs two apprentices. He is married with three young children.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "VXJQbpK7mP45n64Q",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.VXJQbpK7mP45n64Q"
+    },
+    {
+      "name": "[10] Longshoreman Grath of Dant",
+      "type": "text",
+      "text": {
+        "content": "<p>Grath of Dant is a large, simple man with a strong back, no knowledge of agriculture, and an obsession with counting things. His main employment comes from Uril of Tone (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.FjnJERZ60pofwIRF]{[12] Boatman Uril of Tone}), but he is always on hand to help load and unload any boat that docks at the wharf. Often he simply begins working without asking if help is needed. The local fishermen sometimes allow Grath to help unload their catches in return for some fish.</p>",
+        "format": 1
+      },
+      "_id": "kNNSiP0IOo3RUbpj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.kNNSiP0IOo3RUbpj"
+    },
+    {
+      "name": "[11] Woodcrafter Hogarth of Arlia",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p>The younger brother of the beadle (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.NiAqOIMHJZtIwQmS]{[6] Yeoman (Medium Foot) Orbil of Arlia}), and one of only eight woodcrafters in the hundred, Hogarth of Arlia is a busy man. His main business is cooper and furniture maker, but he will turn his hand to any commission. Hogarth’s eldest son is an apprentice in Tashal; his younger has recently left home to serve under Terens of Tatib at Asolade.</p>\n<p>Hogarth currently has one journeyman and an apprentice. The journeyman, Corris of Relt, is an adequate, though unremarkable carpenter from Hutop. He is, however, an enthusiastic experimenter and produces an excellent varnish and two good consistent wood stains.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "lN8nmnACache1err",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.lN8nmnACache1err"
+    },
+    {
+      "name": "[12] Boatman Uril of Tone",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p>Uril of Tone is a kind and gullible man in his early fifties. Uril owns a talbar and transports copper and lead ingots up the Kald to Tashal and sometimes farther. This dense, heavy cargo means that he can usually make room for other goods that are lightweight but bulky. He and his crew are often away for several days at a time.</p>\n<p>Uril’s wife, Hana, is over twenty years his junior and a former barmaid at the Garb and Flail tavern in Tashal. They have been married for seven years. Hana hates her life in rural Jedes and is bored during her husband’s long absences. She has begun an affair with the metalsmith (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.xq3Keucw7miWgNgd]{[3] Metalsmith Alen of Asane}).</p>",
+        "format": 1
+      },
+      "_id": "FjnJERZ60pofwIRF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.FjnJERZ60pofwIRF"
+    },
+    {
+      "name": "[13] Fisherman Zubain Arlia",
+      "type": "text",
+      "text": {
+        "content": "<p>Clan Arlia have fished the Kald for generations. In his fifties, he can no longer support his wife, two sons, daughter-in-law, and six grandchildren. He is trying to arrange for his younger son, Zarial, to marry @UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Yr7pR0QfncDqbW11]{[14] Fisherwoman Anle of Ornelt}. Neither is keen on the match, especially as Zarial hates fishing and the river.</p>",
+        "format": 1
+      },
+      "_id": "WwfQAuK0BGGtXoxg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.WwfQAuK0BGGtXoxg"
+    },
+    {
+      "name": "[14] Fisherwoman Anle of Ornelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Anle of Ornelt is the daughter of a fisher-girl and a harper. Her father met her mother, Aldyne, while travelling through Jedes. Five years and four children later, however, Aldyne died in childbirth. Anle’s father left his children in the care of her uncle Jan, to seek his fortune. He has not been seen since. In her youth, Anle dreamt of her father returning to take them to live in a fine townhouse. Now 26, she expects never to see her father again. She is a member of the constable’s council.</p>\n<p>Anle is the best coracle-maker and repairer in the hundred. Several serfs in the surrounding villages barter food in return for her work. Anle, her uncle, and her three brothers range far up and down the Kald when on fishing trips. They know the river intimately, but take them more than half a league from it and they are completely lost.</p>",
+        "format": 1
+      },
+      "_id": "Yr7pR0QfncDqbW11",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.Yr7pR0QfncDqbW11"
+    },
+    {
+      "name": "[15] Fisherman Hadrik of Arlia Image",
+      "src": "modules/hm-loc-jedes/assets/images/fisher.webp",
+      "type": "image",
+      "image": {
+        "caption": "[15] Fisherman Hadrik of Arlia"
+      },
+      "_id": "mt7UXdQm7yRqmp6H",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.mt7UXdQm7yRqmp6H"
+    },
+    {
+      "name": "[15] Fisherman Hadrik of Arlia",
+      "src": "modules/hm-loc-jedes/assets/images/fisher.webp",
+      "type": "text",
+      "image": {
+        "caption": "[15] Fisherman Hadrik of Arlia"
+      },
+      "_id": "wJ2ry3uYh5tcGvFQ",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/fisher.webp\" width=\"293\" height=\"330\" /></p>\n<p>Hadrik of Arlia is the younger brother of @UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.WwfQAuK0BGGtXoxg]{[13] Fisherman Zubain Arlia}. He fishes with his son Neman. His wife, Arila, and two teenage daughters gut, dry, and smoke fish. Arila’s elderly mother also lives with them.</p>\n<p>Neman has been friends with Anle (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Yr7pR0QfncDqbW11]{[14] Fisherwoman Anle of Ornelt}) since they were young. He is four years younger than Anle and regards her as an elder sister. He has recently begun to ask her for advice on women, as he is looking for a wife. Anle would like him to realise that she is female, and available.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.wJ2ry3uYh5tcGvFQ"
+    },
+    {
+      "name": "[16] Inn: The Fallen Tower",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ Prices: ££££</p>\n<p>Jedes’s only inn gets its name from the fall of the keep about 120 years ago. The sign above the door shows a tower collapsing into a river. Stone reclaimed from the ruined keep was used to build the inn, which was extended twenty-five years ago. The Fallen Tower sees a huge difference in trade over the year; by far the busiest time is during the horse fair.</p>\n<p>The innkeeper, Jastrin of Dyrl, is in his mid thirties. He is easy-going and hard-working, with a remarkable memory for names and faces. Jastrin is the guildmaster of Asolade, but as there are only three inns, and no taverns, in the hundred this is not an onerous task.</p>\n<p>Jastrin’s wife, Shalya, is ten years his junior. She is friendly and gregarious with long black hair and pale, freckled skin. Shalya and Jastrin have three young children, all of whom work in the kitchen with their mother.</p>\n<p>Jastrin employs a journeyman, 22-year-old Halir of Densar, who lusts after Shalya. Halir has mistaken her open friendship for sexual interest. Jastrin’s only other full-time employee is 15-year-old Ealfric of Lysten, son of the innkeeper of Yeashim. Ealfric is nervous and shy—not the best traits for an innkeeper. The locals take every opportunity to embarrass him.</p>\n<p>During the fair Jastrin usually takes on three or four additional members of staff, usually the wives of local freemen. Jastrin always tries to employ mature women rather than young girls.</p>\n<p>The guildmaster brews and sells: Haniale, a traditional piney, nut brown ale common across Kaldor; Jastrin’s Dark, a dark mild beer; and Asolade Perry, made to his own recipe from local pears. Jastrin also distils a strong pear liqueur. He buys imported wines and mead at the beginning of the horse fair, and charges premium prices for them. Whatever remains after the fair is usually heavily discounted, as locals rarely buy “foreign” drinks. Jastrin charges standard prices (¼d per pint) for his ale, beer, and perry. His measures, however, are always short; he can sell nine of his pints from a true gallon. Jastrin himself drinks only sparingly.</p>\n<p>Food provided at the inn—locally caught trout and sometimes other fish, local sausages, ham, and bacon—is usually of a reasonable quality. During the horse fair there is always a pig roasting on a spit.</p>\n<ul>\n<li>@UUID[JournalEntry.sJq8XepjL2x8fWpo.JournalEntryPage.bhCDNljHuZiGr4YS]{[F1] Common Room}</li>\n<li>@UUID[JournalEntry.sJq8XepjL2x8fWpo.JournalEntryPage.MOkBbea3XFQU62ya]{[F2] Kitchen}</li>\n<li>@UUID[JournalEntry.sJq8XepjL2x8fWpo.JournalEntryPage.SCmg6Bg3Tee9Owpb]{[F3] Staff Quarters}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "YE4JKLMW3tNT8AYU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.YE4JKLMW3tNT8AYU"
+    },
+    {
+      "name": "[17] Brothel Erissa of Dryt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> ££</p><p>Erissa of Dryt arrived in Jedes almost twenty years ago with her friend Ennyfa of Aters. Somehow the two became the owners of this former labourer’s cottage, which they ran as a brothel for a number of years, with themselves as the sole employees. Four years ago they were joined by Erissa’s daughter, Tryssa (father unknown). Two years ago Ennyfa died suddenly, leaving just mother and daughter until last year’s fair, when Laria, who claims to be from Tharda, arrived. Since then, Erissa has effectively retired.</p>\n<p>The buxom, brown-haired Tryssa is 19, plain, short, and plump. “Long” Laria is almost six feet tall. She is a skinny and fairly attractive dark blonde in her mid twenties. Business is poor, except for market days and when a miner’s wagon arrives.</p>",
+        "format": 1
+      },
+      "_id": "TuahConctJkKcRJT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.TuahConctJkKcRJT"
+    },
+    {
+      "name": "[18] Mercantyler Cyrael of Urnelt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> ££££</p>\n<p>Cyrael of Urnelt is a striking beauty in her early thirties. She is the eldest daughter of Sendalyn (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.uWwoH0nk0abNdO2e]{[28] Villein Sendalyn of Urnelt}). When she was 16 a Tashalan merchant, Barayn of Hendel, arrived for the horse fair and was taken her beauty. The merchant, a cousin of one of Tashal’s aldermen, bought her freedom from Sir Shernath and took her back to Tashal as his apprentice. Cyrael learned a lot from him, though unfortunately not much about trading. When Barayn was killed in a brawl two years ago, Cyrael returned home to set up her own business. She joined the church of Halea in Tashal and remains a devout Halean, though she has enough sense not to broadcast this. Cyrael has no qualms about seducing her business contacts to make up for her otherwise rather limited trading skill.</p>",
+        "format": 1
+      },
+      "_id": "OIKjjNwr7QdtsOKo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.OIKjjNwr7QdtsOKo"
+    },
+    {
+      "name": "[19] Potter Ulstin of Darion Image",
+      "src": "modules/hm-loc-jedes/assets/images/potter.webp",
+      "type": "image",
+      "image": {
+        "caption": "[19] Potter Ulstin of Darion"
+      },
+      "_id": "Agc2y9W6bYlTXJVR",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.Agc2y9W6bYlTXJVR"
+    },
+    {
+      "name": "[19] Potter Ulstin of Darion",
+      "src": "modules/hm-loc-jedes/assets/images/potter.webp",
+      "type": "text",
+      "image": {
+        "caption": "[19] Potter Ulstin of Darion"
+      },
+      "_id": "WcjkbDRLPJp83ir1",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> ££££</p>\n<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/potter.webp\" width=\"233\" height=\"344\" /></p>\n<p>Ulstin of Darion was born and raised in northwest Kaldor. He arrived as a journeyman, married his master’s daughter, Clariss, and eventually inherited the franchise. The couple have two young children at home, while their eldest son is an apprentice in Hutop.</p>\n<p>Ulstin employs a journeyman and an apprentice. The journeyman, Eadwin of Vaben, is a better salesman than potter. Ulstin often sends him around the hundred with a handcart full of pots for sale.</p>\n<p>Clariss is an experienced potter, but is uninterested in basic manufacture. She is fascinated by glazes and glazing techniques. Her husband allows her to experiment with one or two items per firing, and she recently produced a fine glazed cup in a lustrous blue with white and yellow daisies around the rim. Ulstin wisely donated it to the Pelnala at Bromeleon, where it is now used in services. The next firing will contain a dozen similar cups, which Ulstin hopes to sell to pilgrims.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.WcjkbDRLPJp83ir1"
+    },
+    {
+      "name": "[20] Hunter/Trapper Tes of Eldin Image",
+      "src": "modules/hm-loc-jedes/assets/images/hunter.webp",
+      "type": "image",
+      "image": {
+        "caption": "[20] Hunter/Trapper Tes of Eldin"
+      },
+      "_id": "2EUcLe0HM2nGeF42",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.2EUcLe0HM2nGeF42"
+    },
+    {
+      "name": "[20] Hunter/Trapper Tes of Eldin",
+      "src": "modules/hm-loc-jedes/assets/images/hunter.webp",
+      "type": "text",
+      "image": {
+        "caption": "[20] Hunter/Trapper Tes of Eldin"
+      },
+      "_id": "mWVPfDu5xz8NNbPG",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/hunter.webp\" width=\"422\" height=\"287\" /></p>\n<p>Tes of Eldin traps small game and assists Johan of Kerem, Sir Shernath’s huntsman. It is widely known that Tes crosses the River Kald to hunt. As the northern bank of the river is in Semethshire, and also in Kath territory, this is a dangerous but fertile hunting ground. Over the years Tes has built up a good relationship with the some of local Kath, and he is reasonably fluent in their language. Coner of Kleve (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.VXJQbpK7mP45n64Q]{[9] Mercantyler Coner of Kleve}) has paid Tes to scout a road through Kath territory. Tes knows the Kath will not allow a new road, but he intends to take another payment before telling Coner.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.mWVPfDu5xz8NNbPG"
+    },
+    {
+      "name": "[21] Gong Farmer Kymond of Tebesty",
+      "type": "text",
+      "text": {
+        "content": "<p>Kymond of Tebesty acts as dung-man for the town. He collects night soil from many of the free households—most of the unfree know the true value of their waste, and retain it for their own use. Kymond also collects manure from the stables and sells it. He does not charge the ostlers for this; if they knew how much he makes from his business, they would probably charge him.</p>",
+        "format": 1
+      },
+      "_id": "ByPsLTVPZbC2pH87",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.ByPsLTVPZbC2pH87"
+    },
+    {
+      "name": "[22] Labourer Elkar of Kariune",
+      "type": "text",
+      "text": {
+        "content": "<p>The eldest grandson of Hectur (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.gXOPQWazZfS2TbHf]{[2] Ratter/Animal Trainer Hectur of Kariune}), Elkar of Kariune is 23 with long, jet black hair. His wife of six months, Merela, almost six years his junior, has hair of identical hue and length. The eldest daughter of Sen the thatcher (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.GN4cLIm8GOduweHC]{[44] Thatcher Sen of Nid}), Merela suspects she is pregnant but has yet to tell her husband.</p>\n<p>The energetic Elkar finds work wherever he can. He currently spends much of his time at Bory, labouring for the masons building the new manor house. Merela sometimes travels to Bory with her husband, leaving this property empty.</p>",
+        "format": 1
+      },
+      "_id": "JKNCIGS3E1t78l0C",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.JKNCIGS3E1t78l0C"
+    },
+    {
+      "name": "[23] Labourer Jeris of Nid",
+      "type": "text",
+      "text": {
+        "content": "<p>Jeris of Nid is the younger brother of Sen the thatcher (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.GN4cLIm8GOduweHC]{[44] Thatcher Sen of Nid}). He works only when he must, to the annoyance of wife Valeran, who nags him constantly. Jeris gets some work from his brother, but this is more an act of charity as Jeris is a slow and lazy worker. To try to make ends meet Valeran takes on almost any work. If she is not at home sewing or spinning, she will be at the wash rocks on the Whittle Brook washing clothes. Wherever she is, she will be complaining about her husband.</p>",
+        "format": 1
+      },
+      "_id": "VvBNcsJPCkFgCYYx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.VvBNcsJPCkFgCYYx"
+    },
+    {
+      "name": "[24] Labourer Gunart of Barlis",
+      "type": "text",
+      "text": {
+        "content": "<p>Gunart of Barlis and his family are simple, hardworking folk. He and his two sons have strong backs and are always looking for work. For much of the year they are employed in the demesne fields, looking after the constable’s crops. They are the first people the reeve (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.HKw9O1JK3DGPr5Ve]{[38] Reeve Peser of Luren}) looks to when extra labour is required. Gunart has been offered his own land as a half-villein but prefers to retain his freedom.</p>\n<p>Gunart’s wife, Mala, and her daughters-in-law take in laundry work. They will accept cash payments but prefer payment in kind. However they are paid they insist on also receiving a “good portion” of wood ash, which they use to make a basic detergent.</p>",
+        "format": 1
+      },
+      "_id": "nJExuadze73SUiat",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.nJExuadze73SUiat"
+    },
+    {
+      "name": "[25] Servant Elarit of Veris",
+      "type": "text",
+      "text": {
+        "content": "<p>Elarit of Veris and her three daughters work as domestic servants in Jedes Keep. Her husband left her when their third daughter was born, because he thought she would never bear him a son.</p>",
+        "format": 1
+      },
+      "_id": "j1xK1lnTxQK15C41",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.j1xK1lnTxQK15C41"
+    },
+    {
+      "name": "[26] Tutor/Scribe Josith of Aphria Image",
+      "src": "modules/hm-loc-jedes/assets/images/tutor-scribe.webp",
+      "type": "image",
+      "image": {
+        "caption": "[26] Tutor/Scribe Josith of Aphria"
+      },
+      "_id": "NkOL97cZMbmMssDe",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.NkOL97cZMbmMssDe"
+    },
+    {
+      "name": "[26] Tutor/Scribe Josith of Aphria",
+      "src": "modules/hm-loc-jedes/assets/images/tutor-scribe.webp",
+      "type": "text",
+      "image": {
+        "caption": "[26] Tutor/Scribe Josith of Aphria"
+      },
+      "_id": "rdidSksjuMD1qkRO",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> ££££</p>\n<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/tutor-scribe.webp\" width=\"366\" height=\"253\" /></p>\n<p>Josith of Aphria is cousin to Kanosh (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.AJCX7KbAPbJYmfwp]{[8] Cartographer/Scribe Kanosh of Aphria}). He taught both of the constable’s sons to read and write, and also the basics of mathematics. He does the same for children of many of the guildsmen. He is fluent in Jarinese and knows both the Runic and Lakise alphabets. These skills are little needed in Jedes. Josith spends one day in three acting as a scribe for Sir Shernath. He used to work two days in three for the constable, but gave half of this work to Kanosh.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.rdidSksjuMD1qkRO"
+    },
+    {
+      "name": "[27] Half-Villein Edras of Dyrl",
+      "type": "text",
+      "text": {
+        "content": "<p>Edras of Dyrl is the younger brother of Jastrin (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.YE4JKLMW3tNT8AYU]{[16] Inn: The Fallen Tower}) and was an apprentice ostler. However, during his apprenticeship he was thrown from a horse and broke both legs. Since then he has been afraid of horses. Once healed he chose the life of an unfree peasant farmer, much to the disappointment of his clan.</p>",
+        "format": 1
+      },
+      "_id": "VA1QR7XhL2G2JxXG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.VA1QR7XhL2G2JxXG"
+    },
+    {
+      "name": "[28] Villein Sendalyn of Urnelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Although in his seventies, Sendalyn is still head of Clan Urnelt. His stead holds almost all of his extended family: his wife, two sons, two daughters-in-law, and seven grandchildren. A third son, Kabir (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Mg9iusUb8DU2Frdn]{[32] Half-Villein Kabir of Urnelt}), is a half-villein with his own land. His eldest daughter married Kymond the gong farmer (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.ByPsLTVPZbC2pH87]{[21] Gong Farmer Kymond of Tebesty}), who paid for her freedom; she was adopted by her husband’s clan. His youngest daughter, Cyrael (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.OIKjjNwr7QdtsOKo]{[18] Mercantyler Cyrael of Urnelt}), also had her freedom bought.</p>",
+        "format": 1
+      },
+      "_id": "uWwoH0nk0abNdO2e",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.uWwoH0nk0abNdO2e"
+    },
+    {
+      "name": "[29] Ostler Brod of Heriel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★★ | <strong>Prices:</strong> ££££</p><p>Brod of Heriel does not like to be thought of as “the other ostler in Jedes”, but he finds it difficult to compete with Iriel. Nevertheless, Brod produces fine horses. Ferot of Cets, the bonded ostler at the keep has recently purchased six of his palfreys for the Jedes light horse. While his rival breeds horses that are faster over the furlong, Brod’s are faster over the day. One of the Commoners of Tarwyn, he also breeds and sells ponies.</p>\n<p>Brod is a tousle-haired, bearded middle-aged man. Surly and taciturn, he is assisted in his work by his wife, who is much more talkative. The remaining residents are his youngest son, Meliren, a journeyman, Harrath of Meim, and two apprentices. His eldest son, Sadrah, is a bonded ostler in the service of Clan Katair in Nedian.</p>",
+        "format": 1
+      },
+      "_id": "buLRp0JUi9nDwIwl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.buLRp0JUi9nDwIwl"
+    },
+    {
+      "name": "[30] Chapel of Peoni",
+      "type": "text",
+      "text": {
+        "content": "<p>Reslava Hamis of Guinas is a pious and devout Peonian. His only vice is his habit of finishing a hard day’s work with an ale or two, or three, at the inn. Over the years people have grown accustomed to seeing the reslava at the inn, not the chapel, after sunset. Hamis tells folk that ale is simply “liquid bread”: the ingredients are almost identical; only the proportions and method of preparation are different. And as bread is certainly Peoni’s bounty, so drinking a beer or two must be seen as an act of worship.</p>\n<p>The chapel is a simple stone building, whitewashed both inside and out. The inside is decorated with the villager’s crude paintings. Hamis lives in the attached cottage. He rarely eats there, preferring to visit one of his flock at meal times.</p>",
+        "format": 1
+      },
+      "_id": "cKIvaKdzSgW4ZiNJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.cKIvaKdzSgW4ZiNJ"
+    },
+    {
+      "name": "[31] Herder Burdil of Meriel",
+      "type": "text",
+      "text": {
+        "content": "<p>Burdil of Meriel is in his late fifties. Running to fat, he wheezes through his iron-grey walrus moustache after any exercise. Fortunately, he has a large family who are all younger and fitter than he is. He is charged with controlling all livestock, other than the constable’s geese. These days it is his eldest son, Alarn, and Alarn’s children who carry out this duty.</p>",
+        "format": 1
+      },
+      "_id": "1GvHce8RNtwroHjK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.1GvHce8RNtwroHjK"
+    },
+    {
+      "name": "[32] Half-Villein Kabir of Urnelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Kabir of Urnelt’s daughter is married to Fortil of Kyngen (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.B76xKMzt3TGEcjqb]{[35] Cottar Fortil of Kyngen}). As clans Urnelt and Kyngen have been feuding with each other for as long as anyone in Jedes can remember, Kabir has disowned her. Unknown to Kabir, his wife Melandre often visits her daughter and grandchildren.</p>",
+        "format": 1
+      },
+      "_id": "Mg9iusUb8DU2Frdn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.Mg9iusUb8DU2Frdn"
+    },
+    {
+      "name": "[33] Half-Villein Terlin of Kyngen",
+      "type": "text",
+      "text": {
+        "content": "<p>The youngest of Sholas’s (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.2j1E9o2OqChlh0sx]{[47] Half-Villein Sholas of Kyngen}) three sons, Terlin of Kyngen is married with two sons, both in their early teens.</p>",
+        "format": 1
+      },
+      "_id": "SX8vtSdC3GZTFmTh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.SX8vtSdC3GZTFmTh"
+    },
+    {
+      "name": "[34] Woodward Jorin of Merek Image",
+      "src": "modules/hm-loc-jedes/assets/images/woodward.webp",
+      "type": "image",
+      "image": {
+        "caption": "[34] Woodward Jorin of Merek"
+      },
+      "_id": "qyv9MN3WW1xqoLIn",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.qyv9MN3WW1xqoLIn"
+    },
+    {
+      "name": "[34] Woodward Jorin of Merek",
+      "src": "modules/hm-loc-jedes/assets/images/woodward.webp",
+      "type": "text",
+      "image": {
+        "caption": "[34] Woodward Jorin of Merek"
+      },
+      "_id": "gcNYQB8p2eFD4qjt",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px;width:auto;height:auto\" src=\"modules/hm-loc-jedes/assets/images/woodward.webp\" /></p>\n<p>Lean and fair-haired with a close-cropped beard, Jorin of Merek is married with four children. An excellent woodsman, he ensures that the constable’s woods are well maintained. He is also something of an expert on edible fungi. Jorin’s eldest child, 19-year-old daughter Helva, is a stunningly attractive, willowy brunette. Jorin’s wife tries to keep a careful eye on her.</p>\n<p>The bonded ostler at Asolade has recently begun paying court to Helva. Her parents are keen on the match, as he is a wealthy and hard-working freeman, but Helva finds him rather boring.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.gcNYQB8p2eFD4qjt"
+    },
+    {
+      "name": "[35] Cottar Fortil of Kyngen Image",
+      "src": "modules/hm-loc-jedes/assets/images/cottar.webp",
+      "type": "image",
+      "image": {
+        "caption": "[35] Cottar Fortil of Kyngen"
+      },
+      "_id": "fLk2RB7lQwI4Wclw",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.fLk2RB7lQwI4Wclw"
+    },
+    {
+      "name": "[35] Cottar Fortil of Kyngen",
+      "src": "modules/hm-loc-jedes/assets/images/cottar.webp",
+      "type": "text",
+      "image": {
+        "caption": "[35] Cottar Fortil of Kyngen"
+      },
+      "_id": "B76xKMzt3TGEcjqb",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/cottar.webp\" width=\"353\" height=\"318\" /></p>\n<p>Fortil of Kyngen is the second son of Sholas (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.2j1E9o2OqChlh0sx]{[47] Half-Villein Sholas of Kyngen}). He left home when his father didn’t agree to his marriage to the daughter of Kabir of Urnelt (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Mg9iusUb8DU2Frdn]{[32] Half-Villein Kabir of Urnelt}). Fortil married her anyway. The couple have four children, the eldest just 10. Because of the lack of much support from either clan, the family often go hungry.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.B76xKMzt3TGEcjqb"
+    },
+    {
+      "name": "[36] Yeoman (Light Foot) Mytel of Gwyfid",
+      "type": "text",
+      "text": {
+        "content": "<p>Mytel of Gwyfid and his brother Roras (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Ncc0BivxtNFt29aZ]{[42] Villein Roras of Gwyfid}) are Jarin refugees from Lorkin in Orbaal. Having been involved in the Jarin rebellion, they had to flee seventeen years ago. Mytel married into Clan Arlia and retained his free status thanks to the influence of his wife’s clan. Mytel has two teenage daughters and an 8-year-old son. He has a good life and has no wish to return to the strife in the north.</p>",
+        "format": 1
+      },
+      "_id": "mbqeiW5zrmTX1fmZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.mbqeiW5zrmTX1fmZ"
+    },
+    {
+      "name": "[37] Cottar Goris of Ornelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Goris of Ornelt is the uncle of Tornyn (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.aYAiVvDmjgizGi1B]{[41] Yeoman (Shortbow) Tornyn of Ornelt}). He is the poorest member of, and unpopular with, his clan. Anle (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Yr7pR0QfncDqbW11]{[14] Fisherwoman Anle of Ornelt}) occasionally takes pity on him and his family and provides them with the odd fresh fish. Goris lives with his wife, their 37-year-old son Haldan and his wife and their two children. Unfortunately, Haldan is an even worse farmer than his father. Haldan spends a lot of time hanging round the docks, looking for labouring work to supplement their meagre income.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "eadJWNsv32xF5tE6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.eadJWNsv32xF5tE6"
+    },
+    {
+      "name": "[38] Reeve Peser of Luren",
+      "type": "text",
+      "text": {
+        "content": "<p>Peser of Luren is in his mid forties, almost six feet tall, and of average build. He is bald but otherwise plainfeatured. Unusually for a reeve, he was suggested for the post by Sir Shernath, who had made many enquiries as to the most skilled farmer in Jedes.</p>\n<p>Peser’s wife, Tenal, is jolly, plump, and dark-haired. They have two sons, aged 24 and 19, and four daughters, aged 18, 13, 10, and 5. The eldest son married two years ago and now has his own land (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.963D0ppe2iUYjpL5]{[48] Villein Medrek of Luren}). Four of the remaining five children live at home. The other, 13-year-old Yma, lives and works in the castle field as the “goose girl”.</p>",
+        "format": 1
+      },
+      "_id": "HKw9O1JK3DGPr5Ve",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.HKw9O1JK3DGPr5Ve"
+    },
+    {
+      "name": "[39] Cottar Hurdir of Kerelin",
+      "type": "text",
+      "text": {
+        "content": "<p>Hurdir of Kerelin is the youngest son of Dabrath (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.DYrVXFA5exWdBFsA]{[46] Villein Dabrath of Kerelin}). He is an unkempt young peasant in patched, ragged clothes. Aged 24, he has a 3-year-old daughter, Yrigeth. His wife died in childbirth. Hurdir now shares his house with his friend and old drinking companion Odins of Merek. The two young men are the talk of the village. Once regarded as wild young tearaways, they both now are extremely hard-working and dote upon little Yrigeth. While the two men are scruffy, Hurdir’s daughter is always clean, well dressed, and well looked after.</p>",
+        "format": 1
+      },
+      "_id": "98K7grYZw3RWX0A8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.98K7grYZw3RWX0A8"
+    },
+    {
+      "name": "[40] Villein Carevic of Merek",
+      "type": "text",
+      "text": {
+        "content": "<p>Carevic of Merek is a widower. He still runs the farm, but his eldest son and his daughter-in-law now carry out most of the work. The couple have a son, aged 6. Carevic was estranged from his younger son, Odins (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.98K7grYZw3RWX0A8]{[39] Cottar Hurdir of Kerelin}), several years ago, after constant fines for drunken and rowdy behaviour. The two are now slowly moving toward a rapprochement.</p>",
+        "format": 1
+      },
+      "_id": "DfZpY6N0ezlP3uuF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.DfZpY6N0ezlP3uuF"
+    },
+    {
+      "name": "[41] Yeoman (Shortbow) Tornyn of Ornelt Image",
+      "src": "modules/hm-loc-jedes/assets/images/shortbow.webp",
+      "type": "image",
+      "image": {
+        "caption": "[41] Yeoman (Shortbow) Tornyn of Ornelt"
+      },
+      "_id": "JJ2mqR1FFKMU6wEH",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.JJ2mqR1FFKMU6wEH"
+    },
+    {
+      "name": "[41] Yeoman (Shortbow) Tornyn of Ornelt",
+      "src": "modules/hm-loc-jedes/assets/images/shortbow.webp",
+      "type": "text",
+      "image": {
+        "caption": "[41] Yeoman (Shortbow) Tornyn of Ornelt"
+      },
+      "_id": "aYAiVvDmjgizGi1B",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/shortbow.webp\" width=\"128\" height=\"209\" /></p>\n<p>Tornyn of Ornelt, 36, lives with his aging father (also named Tornyn), his wife, and his two children, a boy of 10 and a girl of 5. A good shot with the shortbow, Tornyn is also an excellent fletcher. He will, however, only sell his arrows to Barda, the weaponcrafter at the keep. Barda resells the arrows and provides Tornyn with arrow heads as part of their arrangement. Tornyn’s brother, Straken, is sergeant-at-arms of the Jedes medium footmen.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.aYAiVvDmjgizGi1B"
+    },
+    {
+      "name": "[42] Villein Roras of Gwyfid",
+      "type": "text",
+      "text": {
+        "content": "<p>Roras of Gwyfid is the younger brother of Myter (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.mbqeiW5zrmTX1fmZ]{[36] Yeoman (Light Foot) Mytel of Gwyfid}). He is the quicker-tempered of the two, never having forgotten their fight for a free Jara. Unlike his older brother, who is content with his new life, Roras still talks about returning to Jara to join the Aenghysa. He has occasionally worked as a tracker for Sir Shernath.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Ncc0BivxtNFt29aZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.Ncc0BivxtNFt29aZ"
+    },
+    {
+      "name": "[43] Ostler Iriel of Haskew Image",
+      "src": "modules/hm-loc-jedes/assets/images/ostler.webp",
+      "type": "image",
+      "image": {
+        "caption": "[43] Ostler Iriel of Haskew"
+      },
+      "_id": "d1Vqk20MEzjSdaew",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.d1Vqk20MEzjSdaew"
+    },
+    {
+      "name": "[43] Ostler Iriel of Haskew",
+      "src": "modules/hm-loc-jedes/assets/images/ostler.webp",
+      "type": "text",
+      "image": {
+        "caption": "[43] Ostler Iriel of Haskew"
+      },
+      "_id": "gTnFTkcd4MdIsMuC",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★★ | <strong>Prices:</strong> £££££</p>\n<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/ostler.webp\" width=\"357\" height=\"317\" /></p>\n<p>Iriel of Haskew is the guildmaster ostler for all of eastern Hârn. He is tall, quiet, and even tempered. His long hair is greying at the sides. Often away on guild business, Iriel is assisted by his two sons, his daughter, a journeyman, and three apprentices.</p>\n<p>Iriel’s eldest son, Erdar, is a self-important young man. The apprentices despise him, as Erdar likes to “make sure they know who is in charge” when his father is absent. Unfortunately for them, Iriel is away often.</p>\n<p>Jedes’s horses, especially those bred by Iriel, are famous throughout Kaldor. It is not unusual for visitors from Chybisa, the Thardic Republic, and even Kanday to attend the horse fair in search of a fine warhorse or palfrey. Iriel keeps an astonishingly complex record of the bloodline of his horses in a locked chest in his bedroom. His records now cover over forty years of breeding and use a recording system taught to him by the heralds of Tashal. As a gift of thanks, Iriel provides the Acorn King of Arms a warhorse every five years. Even after forty years, some heralds remain unhappy that their record system is used by a commoner to record the birth and death of mere beasts.</p>\n<p>In addition to his many other duties, Iriel is a commoner and verderer of Tarwyn. He uses this office to act as a pony broker for many of the commoners. Although Iriel delegates many of his duties to Erdar, for the past two years all aspects of his duties as commoner and verderer have been carried out by his daughter Hylda. Hylda is tall, flat-chested, and gangling with light brown hair and a long, narrow nose. She is often mistaken for a boy, something which has only recently started to bother her. Now in her late teens, she has been riding since she could walk and loves the forest ponies above all other beasts.</p>\n<p>The guildmaster and his family live in a sturdy, wellmaintained stone and wood house, which has a tiled roof and glazed windows. The upper, wooden walls are plastered and whitewashed. Iriel’s prosperity is obvious.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.gTnFTkcd4MdIsMuC"
+    },
+    {
+      "name": "[44] Thatcher Sen of Nid",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Quality:</strong> ★ | <strong>Prices:</strong> £££</p>\n<p>Sen of Nid is the hundred’s only thatcher. Some serfs choose to do their own thatching and most manors are roofed with tiles or, more commonly, lead, but there is still more than enough business in the hundred for him.</p>",
+        "format": 1
+      },
+      "_id": "GN4cLIm8GOduweHC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.GN4cLIm8GOduweHC"
+    },
+    {
+      "name": "[45] Yeoman (Light Horse) Jethal of Arlia",
+      "type": "text",
+      "text": {
+        "content": "<p>Jethal of Arlia is the younger brother of the beadle (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.NiAqOIMHJZtIwQmS]{[6] Yeoman (Medium Foot) Orbil of Arlia}). Although he is shorter than his brother, Jethal still stands over six feet tall. He apprenticed as an ostler and still holds journeyman status in the guild. Jethal loves Jedes. He served his apprenticeship in Sirendel, but could not bear to be away from his home village. On returning home he served in the keep’s garrison for ten years. When he married, he was granted land and his current position. He counts himself a lucky man.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Flydh3Eguee7ods6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.Flydh3Eguee7ods6"
+    },
+    {
+      "name": "[46] Villein Dabrath of Kerelin",
+      "type": "text",
+      "text": {
+        "content": "<p>Dabrath of Kerelin lives with his frail wife, eldest son, daughter-in-law, and two grandchildren, both of whom are under 10. His younger son, Hurdir (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.98K7grYZw3RWX0A8]{[39] Cottar Hurdir of Kerelin}), was always in trouble as a youth. Dabrath eventually turned him out, unwilling to pay the fines for his rowdiness and brawling. Hurdir settled when he married and sobered when he became a father. Dabrath and Hurdir are now close.</p>",
+        "format": 1
+      },
+      "_id": "DYrVXFA5exWdBFsA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.DYrVXFA5exWdBFsA"
+    },
+    {
+      "name": "[47] Half-Villein Sholas of Kyngen",
+      "type": "text",
+      "text": {
+        "content": "<p>Sholas of Kyngen has severed all ties with his son Fortil (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.B76xKMzt3TGEcjqb]{[35] Cottar Fortil of Kyngen}). Fortil’s crime was to marry the daughter of “that bastard Kabir” (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Mg9iusUb8DU2Frdn]{[32] Half-Villein Kabir of Urnelt}). Sholas’s wife died the year that Fortil married, “of a broken heart” according to Sholas. Sholas lives with his eldest son Faran, Faran’s wife Maryss, and their daughters.</p>",
+        "format": 1
+      },
+      "_id": "2j1E9o2OqChlh0sx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.2j1E9o2OqChlh0sx"
+    },
+    {
+      "name": "[48] Villein Medrek of Luren",
+      "type": "text",
+      "text": {
+        "content": "<p>Medrek of Luren is the eldest son of the reeve (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.HKw9O1JK3DGPr5Ve]{[38] Reeve Peser of Luren}). Very much his father’s son, Medrek is a skilled farmer and continues to learn from his father. Medrek is married to Aoife, the eldest daughter of Carevic of Merek (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.DfZpY6N0ezlP3uuF]{[40] Villein Carevic of Merek}). The couple have a 4-year-old son, and Aoife is halfway through another pregnancy.</p>",
+        "format": 1
+      },
+      "_id": "963D0ppe2iUYjpL5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.963D0ppe2iUYjpL5"
+    },
+    {
+      "name": "[49] Beggar Lorin of Dant",
+      "type": "text",
+      "text": {
+        "content": "<p>Like his brother Grath (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.kNNSiP0IOo3RUbpj]{[10] Longshoreman Grath of Dant}), Lorin of Dant is a large and simple man. He is, however, much more argumentative than his brother and sometimes simply disagrees with people just to see their reaction. A bully of threatening appearance, Lorin seems to demand money rather than beg for it. Lorin lives with his mother, apparently the only woman he respects.</p>",
+        "format": 1
+      },
+      "_id": "awVUSGlMHpHtMfCQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zzkVUITtfDwb7Na8.awVUSGlMHpHtMfCQ"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566793,
+    "modifiedTime": 1659204566793,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "zzkVUITtfDwb7Na8",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!zzkVUITtfDwb7Na8"
+}

@@ -1,0 +1,511 @@
+{
+  "name": "Keep",
+  "pages": [
+    {
+      "name": "Routine Within the Keep",
+      "type": "text",
+      "text": {
+        "content": "<h2>Daily Routine</h2>\n<p>The working day begins before dawn, when the baker rises and starts the first bake. Soon after dawn, the rest of the keep wakes. The trestle tables are set out in the main hall and the residents break their fast with bread and small beer, plus butter and fruit in season and, in the winter months, oatmeal porridge.</p>\n<p>The household servants then begin cleaning, while the kitchen servants begin preparing the main meal. The noble ladies retire to the solar or take the air. The constable’s staff begin their duties. The main meal of the day usually begins before noon. After the meal work continues until a little before dusk, when supper is prepared. Most folk retire soon after dusk.</p>\n<h2>Guard Duties</h2>\n<p>The men-at-arms have a strict rotation of duties. The drawbridge is open from dawn until dusk, and a guard patrols between the drawbridge and the postern gate during this time. A guard is always on duty in the small hall, regardless of the time of day. Similarly, there is always a guard on the battlements. When one manus is on duty within the keep, the other is on patrol across the hundred.</p>\n<h2>Monthly Routine</h2>\n<p>Sir Shernath holds his vassals’ court on the 12th of each month. The court is open to the manor lords and bailiffs holding fealty from Earl Troda Dariune, any freemen in these holdings, and all residents of Jedes. On the 25th of each month Sir Shernath holds a feast for his vassals. The lords of Andrake, Bory, Feneven, and Yalen regularly attend, as do the bailiffs of Belgie, Calsite, Skaist, and Tamorlan. The new bailiff of Chewintin is yet to attend. The constable also invites the Pelnala of Bromeleon, the hundred bailiff, and the Miner’s Guild masters. Only the hundred bailiff attends with any regularity. This feast occurs on the last Soratir of the month. The nobles who attend the feast also attend the Laranian mass, making this the best-attended Soratir each month.</p>\n<h2>Seasonal Events</h2>\n<p>On the fourth day of each season the constable holds a feast for the Council of the Mangai of Asolade Hundred. All seven councillors and their families are invited. While attendance is not compulsory, it is unusual for any of the councillors to miss the feast.</p>\n<h2>Annual Events</h2>\n<ul>\n<li><strong>25–30 Kelen:</strong> Jedes Horse Fair and Tourney. This is when Jedes is most crowded. Merchants and nobles begin to arrive from 20 Kelen. By the 24th, the Fallen Tower Inn is packed to bursting. The other two inns in Asolade Hundred—the Yeasford Inn at Yeashim and the Crown Posada at Tamorlan [<a href=\"https://www.lythia.com/harnworld/settlements/asolade-hundred/\">Asolade Hundred</a> pp55, 60]—are over two leagues away. Even travelling by horse, this is a considerable distance, an hour’s ride and close to two hours’ walk. Nevertheless, some lesser nobles choose to stay at these inns rather than camp on the common. However, these inns see most of their trade in the days leading up to the fair.</li>\n<li><strong>17 Halane:</strong> Blood-day. This is the traditional day for slaughtering animals before the winter. A feast for all villagers is held on the Castle field, or in the keep if the weather is inclement.</li>\n<li><strong>10–15 Savor:</strong> St. Bromel’s Fast. Jedes is usually busy five days before the fast and five days after. During the fast days the pilgrims are at Bromeleon, and Jedes is quiet. The market on 20 Savor is almost as busy as the horse fair, with locals selling keepsakes to returning pilgrims and the usual collection of charlatans and rogues peddling relics and artifacts.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "sUd1OMKbt48LDi4D",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.sUd1OMKbt48LDi4D"
+    },
+    {
+      "name": "[K0a] Cellar",
+      "type": "text",
+      "text": {
+        "content": "<p>The cellar is the keep’s general storeroom. Meat, grain, and other foodstuffs are kept in the large vaulted chamber, which is fairly dry and always cold. Barrels at the bottom of the postern stairs contain ale and imported wine. The keep’s only well is also here. A small section of the cellar is walled off and is used as the keep’s brewery and buttery.</p>\n<p>Seargant Staken of Ornelt (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.dtPGX5jy5PCE0RxS]{Sergeant-at-Arms Straken of Ornelt}) and his wife share a bed in the cellar.</p>",
+        "format": 1
+      },
+      "_id": "MfX8vNGfgcU3Q88w",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.MfX8vNGfgcU3Q88w"
+    },
+    {
+      "name": "[K0b] Oubliette",
+      "type": "text",
+      "text": {
+        "content": "<p>As part of Egbert’s reconstruction work, an oubliette was created beneath the cellar. Cold, dank, and fetid, it has never been cleaned. Prisoners are stripped naked and lowered into the chamber on the end of a rope, unless they struggle, in which case they are simply thrown down twenty feet onto solid bedrock. Prisoners are fed and watered at the discretion of the guards, that is, infrequently. Over the years a few recalcitrant prisoners have been left to die. The presence of decaying human remains only adds to the evil atmosphere in the pit. The constable and his men usually find that a night or two in this pitch dark and forbidding room, where the only exit is through a trapdoor in the centre of the ceiling, brings most minor miscreants to their senses.</p>",
+        "format": 1
+      },
+      "_id": "q1tAWl1UBvWZMfKw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.q1tAWl1UBvWZMfKw"
+    },
+    {
+      "name": "[K1] The Great Hall Image",
+      "src": "modules/hm-loc-jedes/assets/images/miginaths-chair.webp",
+      "type": "image",
+      "image": {
+        "caption": "[K1] The Great Hall"
+      },
+      "_id": "Caitp0hzsAej87YQ",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.Caitp0hzsAej87YQ"
+    },
+    {
+      "name": "[K1] The Great Hall",
+      "src": "modules/hm-loc-jedes/assets/images/miginaths-chair.webp",
+      "type": "text",
+      "image": {
+        "caption": "[K1] The Great Hall"
+      },
+      "_id": "M6thuqHYdaA7HD9o",
+      "text": {
+        "content": "<p>The great hall is huge but simply decorated. Thick red velvet curtains hang alongside the windows. They are closed only in the winter months, to reduce draughts. A huge shield bearing the blazon of Earl Dariune, actually a six-foot-high wooden frame with embroidered cloth stretched over it, hangs on the wall high above the fireplace.</p>\n<p>The blazons of the local landholding clans—Doulzarn, Ercamber, Erwyne, Mazerony, Orteyan, Poulty, and Vaen—hang along the curved northern wall. The arms of the bailiff clans—Halgalen, Kaphin, and Lartyne— hang from the balcony. The wooden shield bearing the arms of Lartyne was freshly painted over the winter, Sir Krisagon having only recently arrived in Chewintin, and it stands out from the others. Clan Mirdarne’s blazon hangs from the central pillar. The sole blazon on the wall opposite the fireplace is that of Sir Laban of Tyart, winner of last year’s tourney. All of these blazons are painted onto wooden knight shields.</p>\n<p>The great hall is an echoing, empty room. The keep’s residents, including the bonded masters and the garrison, eat two meals a day here. For most of the year the ladies eat with the men. Their presence makes for forty or more folk, filling seven or eight tables, a number easily accommodated within the hall. During the Horse Fair and Tourney the ladies dine on the gallery.</p>\n<p>The head chambermaid, Cralla of Aven, the 21year-old daughter of the cook, sleeps in the great hall along with six other chambermaids, all women from Jedes and the surrounding villages. Two scribes, Torbris and Eldaen of Aphria, and two apprentice clothiers also sleep here. Four other servants, Elarit of Veris and her daughters, live in a cottage in the village.</p>\n<p>Cralla is fastidious about her work. She is usually quiet and reserved, but she pours scorn on the man-at-arms Padrig of Lunn, who is conducting affairs with two of the young chambermaids. The two maids, Brenna of Selis and Yritha of Tannis, vie for his affections. Both giggle and flirt when he approaches. Cralla was Padrig’s first conquest when he arrived at the keep. She was dumped two years ago for a prettier girl and now hates her former lover with a venom.</p>\n<p><img style=\"float:left;width:194;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/miginaths-chair.webp\" /></p>\n<p>The hall is furnished with simple trestle tables and benches, all made from local timber. The tables can be moved to one side to provide accommodation for visitors. As the king always brings a large retinue to Jedes, a great many knights are quartered here during the annual horse fair and tourney.</p>\n<p>There are three ornately carved chairs in the room. One chair, carved with Jarin knotwork, is used by Sir Shernath; a second, carved with hunting scenes, is used by Sir Tamys. The third, which is kept next to the fireplace and covered with an embroidered blanket, is ornately carved with dragons and wyverns and made from Byrian dark hardwood. This chair was a present to King Miginath from Lady Erila Kaphin, and reserved exclusively for his use; Sir Shernath is its guardian. The constable recently had one of the servant girls, Brenna of Selis, whipped and placed in the oubliette for four days because she sat in it when she thought that noone was looking. Brenna still has nightmares about the experience. Most of the keep staff were surprised by the severity of the punishment, as Sir Shernath is normally more merciful in his dispensation of justice.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.M6thuqHYdaA7HD9o"
+    },
+    {
+      "name": "[K2] Ladies’ Gallery and Solar",
+      "type": "text",
+      "text": {
+        "content": "<p>It is common for the ladies to eat in the great hall with the men-folk. During the king’s visit and at the horse fair, however, protocols are strictly observed. On these occasions the women of the keep and any visiting noble ladies dine in the gallery. There are two carved chairs in the ladies’ gallery, one for Lady Jenya and one for Lady Helarn. This annoys Lady Esme.</p>\n<p>The ladies’ gallery contains three south-facing glazed windows that reach from floor to ceiling, making it the lightest room in the keep. The stone walls are whitewashed to add to the light. The gallery, which is also used as a sewing room and solar, is the favourite room of the bonded clothier, Julan of Padek (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.HWHyuOwPhxQRNNJZ]{Bonded Clothier Julan of Padek}).</p>",
+        "format": 1
+      },
+      "_id": "YfjsA9B1NNK5FN5W",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.YfjsA9B1NNK5FN5W"
+    },
+    {
+      "name": "[K31] The Upper Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The upper hall contains three curtained-off areas. These are the sleeping quarters for: the clothier; the huntsman, Johan of Kerem; and the falconer, Faraq mah Moohd. His predecessor was dismissed for repeatedly allowing his birds to frighten the geese, an incident that proved to everyone in the keep that @UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.MsEEJp7FzdBww1FE]{Goose Girl Yma of Luren} has more influence over the constable than a mere falconer. The constable keeps three falcons and two kestrels in a small mews on the roof.</p>\n<p>The garderobe to the west is the one servants use to empty the chamber pots. The outer wall of the keep is slick with excrement at this location. The garderobe to the east was originally built as a bartizan, to defend the postern gate. It still fulfils that purpose in addition to its other use. The servants know to keep an eye on the bartizan when using the postern door.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.9KMi0oZ2pcbiPo4R]{Falconer Faraq mah Moohd}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.HWHyuOwPhxQRNNJZ]{Bonded Clothier Julan of Padek}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.VZDWt4p86uNYR684]{Huntsman Johan of Kerem}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "2f93A4bIvvnZJEFL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.2f93A4bIvvnZJEFL"
+    },
+    {
+      "name": "[K32] The Steward and the Herald",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Callam and Sir Jassyff share this room. The steward is fastidiously tidy, and the main part of the room is always neat. The herald is less fussy; he refuses to let the servants into his part of the room, the curtained-off corner. Against the south wall, scrolls and parchments are beginning to spill out under the curtain.</p>\n<p>Sir Callam also uses this room as an office and spends much of his day checking and re-checking accounts. The chest contains papers on the income from local manors. Sir Jassyff is rarely in the room. He prefers to work in the solar, or the great hall if the solar is busy with women’s chatter.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.mU21pKzBUW8xDAZQ]{Sir Callam Mirdarne, Steward}</li>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.g7oYy7qOrSrT7MRL]{Sir Jassyff Mazerony, Herald}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "ngojMxMuYxvf3oIz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.ngojMxMuYxvf3oIz"
+    },
+    {
+      "name": "[K33] The Chancellor",
+      "type": "text",
+      "text": {
+        "content": "<p>Considering Lady Helarn’s reputation as a sour-faced, humourless, and dispassionate old woman, many people would be surprised at the number of mementos of her husband that she keeps in one of the chests in this room. On the wall between the two windows hangs the remains of a broken jousting pole, around which is tied a faded silk ribbon. Lady Helarn found it in her husband’s effects after he died, and recognised it as the favour she gave him when they first met at Dagrath’s Fair. Other than this one item, the walls are unadorned. Lady Helarn insists that Cralla clean this room, not one of “those giddy young things”. The chancellor often works in her room, and by talking with Cralla she can pick up servants’ gossip, which she occasionally passes on to Sir Shernath.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.x84KzqfInScK4VMj]{Lady Helarn Poulty, Chancellor of the Keep}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "iJVj1iYcGhYhIUBQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.iJVj1iYcGhYhIUBQ"
+    },
+    {
+      "name": "[K34] The Chaplain",
+      "type": "text",
+      "text": {
+        "content": "<p>There is no doubting that this room is occupied by a priest. There are many fine paintings and illuminated manuscripts around the walls. A pair of rude bunks provide accommodation for the two ashesa, while the matakea has a fine bed hung with curtains embroidered with various views of Dolithor.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.IDyvRzImZp2O9vnd]{Matakea Narrath Yarquane, Chaplain}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "YtyoHd3mx1Raasuz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.YtyoHd3mx1Raasuz"
+    },
+    {
+      "name": "[K35] The Chamberlain",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Tamys and his family share this large room. Sarali sleeps in the bed next to her parents. The chest contains two books of poetry, several items of embroidery, spare clothing, and, hidden at the bottom, an old broken doll. Willem’s bed, next to the fire, is always covered in carved soldiers; a wooden sword and shield usually lie on the floor. Lady Bethan tries to keep the room is tidy, but the rest of her family conspire against her.</p>\n<ul>\n<li>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.UY77z5KFUsXpoGCB]{Sir Tamys Poulty, Chamberlain}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "7ny2OEBFQt9DxzBw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.7ny2OEBFQt9DxzBw"
+    },
+    {
+      "name": "[K41] The Constable",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Shernath and Lady Jenya’s room is sparsely furnished. The room is warm, comfortable, and well appointed. The large four-poster bed has a mattress and pillows stuffed with goose down. The bunks near the door are where their sons slept. Though neither boy lives at the keep, Lady Jenya insists that things remain just as they are for “when the boys visit”. Sir Shernath knows better than to disagree with his wife where their sons are concerned.</p>\n<p>Sir Shernath’s arms and armour are kept in the chest in the north-east corner; they are taken out, cleaned, and checked once a season. After the last check of his chainmail, Sir Shernath asked Barda of Cets to add extra girth, dryly telling her that the mail “must have shrunk”. Within the keep the constable is armed only with a dagger. When visiting the local fiefs, he usually carries a fine Kuzhan broadsword, a present from Earl Troda.</p>\n<p>The constable keeps copies of every report he has sent to Earl Troda in a locked chest in this room. Only his wife is aware of this. On occasion, Sir Shernath has allowed servants to see him opening and emptying the chest, so that everyone in the keep knows that the chest contains “some old papers”, and not “valuable treasure”. To the earl’s enemies, of course, the contents of the chest are valuable treasure indeed.</p>",
+        "format": 1
+      },
+      "_id": "NxcZTTWUFMaW0AjB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.NxcZTTWUFMaW0AjB"
+    },
+    {
+      "name": "[K42] The Royal Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>This well-appointed and lavishly furnished room is used by Earl Troda or King Miginath on their infrequent visits to Jedes. The royal chamber is cleaned regularly. If an important guest arrives unexpectedly, Sir Shernath is always ready to host them. Other than the king and the earl, the only other person to have regularly used this room over the years is the late sheriff of Osel, Prince Merik Elendsa. If, as often happens during the horse fair, both king and earl are present, Sir Shernath gives up his room, with consequent effects on the other nobles.</p>",
+        "format": 1
+      },
+      "_id": "CXriaZydBKhSMRXF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.CXriaZydBKhSMRXF"
+    },
+    {
+      "name": "[K43] The Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p>This small but well-appointed chamber is the only chapel to Larani in Asolade Hundred. Of the hundred’s sixteen manors, only three are not held by Laranians: Bromeleon and Poynter are church lands held by Peonian Priests and the bailiff of Poynter openly worships Savek’nor. The lords and ladies of the hundred regularly attend the services at Jedes chapel. The congregation at the monthly mass averages fifty souls, but sometimes there are well over eighty in attendance. In addition to the local noble families several yeomen and many of the keep’s garrison regularly attend the services.</p>\n<p>Matakea Narrath keeps a careful note of who attends his services. Any noble who misses three in a row will receive a visit from the priest.</p>",
+        "format": 1
+      },
+      "_id": "zQr8JOwmpy3yLdJF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.zQr8JOwmpy3yLdJF"
+    },
+    {
+      "name": "[K5] Roof and Towers",
+      "type": "text",
+      "text": {
+        "content": "<p>At eighty feet above the river, the keep’s battlements give a good view of the surrounding countryside. One man-at-arms is stationed on the roof from dawn until dusk.</p>\n<p>The towers rise another twenty feet above the keep’s roof. The view from the top is spectacular. The “ten pound” tower at Yeashim is clearly visible, as is most of the farmed part of the hundred. The forests of Semethshire to the north are a riot of colour in the autumn. The Kald river valley cuts a swathe from north-east to south-west. The Tamora gap, between the Taniran and the Daynora hills is visible to the east.</p>\n<p>The west tower houses the mews, home to Sir Shernath’s three falcons and two kestrels. Faraq often flies the birds from the tower for exercise. If he is not out on the hunt, he spends much of his day here.</p>",
+        "format": 1
+      },
+      "_id": "nKvUsoXOYI3g7tU1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.nKvUsoXOYI3g7tU1"
+    },
+    {
+      "name": "[KGa] Small Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>At least one guard is always on duty in the small hall, which is used as a waiting area for visitors. Any commoner trying to enter the keep without an appointment will be held here by the guards. If they have a good reason for their visit Sir Shernath will, eventually, have them escorted upstairs into the main hall.</p>",
+        "format": 1
+      },
+      "_id": "qEJ66c3mHNdcjgK8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.qEJ66c3mHNdcjgK8"
+    },
+    {
+      "name": "[KGb] Barracks",
+      "type": "text",
+      "text": {
+        "content": "<p>The barracks are sleeping quarters for the two mani of medium footmen.</p>\n<h3>First Manus</h3>\n<ul>\n<li><strong>Sergeant-at-arms Straken of Ornelt</strong> (@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.dtPGX5jy5PCE0RxS]{Sergeant-at-Arms Straken of Ornelt}).</li>\n<li><strong>Lillith of Abrall</strong>, the only female in the medium foot, is the 23-year-old daughter of a yeoman from Asolade manor.</li>\n<li><strong>Abelard of Hestin</strong>, a tall and surly 26-year-old, is from Chewintin.</li>\n<li><strong>Dorrin of Lyne</strong>, 23, is a jovial, friendly man from Skaist.</li>\n<li><strong>Hellard of Calas</strong>, a fleet-footed 24-year-old from Calsite, is always the first to catch a fleeing felon. Tall, slim, and taciturn, Hellard is completely unlike his brother.</li>\n</ul>\n<h3>Second Manus</h3>\n<ul>\n<li><strong>Melbrin (corporal) Janreth of Ardin</strong>, 35, is from Dithend. His nephew is in the second manus of the light horse squadron.</li>\n<li><strong>Ferdik of Veris</strong>, 37, is the tallest of the footmen, standing a few inches over 6 feet. He is the elder brother of Nesten, the master timberwright at Mowich [see <a href=\"https://www.lythia.com/harnworld/settlements/asolade-hundred/\">Asolade Hundred</a> p32]. Ferdik had courted Porla before she married Nesten, but she spurned him because of his vicious temper. A big burly bully, Ferdik is nevertheless easily cowed by his sergeant and any noble.</li>\n<li><strong>Padrig of Lunn</strong>, a tall, black-haired, handsome 26-year-old from Skaist, is a ladies’ man.</li>\n<li><strong>Marek of Ursen</strong>, a 16-year-old from Yeashim, is terrified of Ferdik.</li>\n<li><strong>Chulin of Saleris</strong> is the latest recruit to the decad. He claims to have been a mercenary on the Salt Route, but in fact was an enforcer for Halime of Falesh in Tashal. After killing a militia man in a brawl, Chulin was forced to leave town. Chulin has made friends with Ferdik.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "dn74u5wnr27Dd9xe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.dn74u5wnr27Dd9xe"
+    },
+    {
+      "name": "[KGc] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen is a busy place and by far the warmest room in the keep. Warm in winter, it can be unbearable in the summer. The cook, Hedric of Aven, once served in the kitchens of Earl Curo in Gardîren. He was dismissed because, while a good cook, his menus were too conservative for Earl Curo. He is thick-set, greyhaired, and in his early forties. His wife, Margryth, is the head kitchen maid and the sister of Sergeant Straken of Ornelt. The couple share a bed in the curtainedoff area. There are nine other kitchen maids, all local girls, mostly from Jedes. Seven of them sleep in the kitchen; the other two, daughters of Elarit of Veris, live in a cottage in the village.</p>\n<p>Haeri of Halam is the castle baker. He is tall, darkhaired, and in his mid thirties, with a jutting chin and long straight nose. He is unmarried, and many of the serving girls avoid him. Haeri sleeps in the great hall and is the first at work every morning. He uses the southern oven for his baking.</p>",
+        "format": 1
+      },
+      "_id": "6QwANGpFBLZpufHG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wRACXAvN6azy3dsD.6QwANGpFBLZpufHG"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566786,
+    "modifiedTime": 1659204566786,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "wRACXAvN6azy3dsD",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!wRACXAvN6azy3dsD"
+}

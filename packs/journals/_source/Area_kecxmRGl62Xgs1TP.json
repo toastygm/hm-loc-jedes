@@ -1,0 +1,187 @@
+{
+  "name": "Area",
+  "pages": [
+    {
+      "name": "[A] Jedes Common (Tourney Field)",
+      "type": "text",
+      "text": {
+        "content": "<p>This large triangular field is available for use as grazing land by the Commoners of Tarwyn. Local ostlers Brod of Heriel (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.buLRp0JUi9nDwIwl]{[29] Ostler Brod of Heriel}) and Iriel of Haskew (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.gTnFTkcd4MdIsMuC]{[43] Ostler Iriel of Haskew}) are both commoners. Iriel is also a verderer, along with his many other duties. The three master ostlers of Jedes maintain the land for the commoners and are allowed to graze horses on the common. Grazing violations are reported to the reeve or the beadle, and violators are heavily fined.</p>\n<p>During the horse fair and tourney the common is fairground, market, and tourney field. The central area is given over to the tournament and other events; the horse fair is to the south. As the market place (@UUID[JournalEntry.kecxmRGl62Xgs1TP.JournalEntryPage.xhs984mEeukN3HsC]{[C] Jedes Market}) is too small to accommodate the more than sixty stalls set up during the fair, these are placed on the common, to the south-east.</p>",
+        "format": 1
+      },
+      "_id": "btE5BjeG3UlQ0U0O",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.btE5BjeG3UlQ0U0O"
+    },
+    {
+      "name": "[B] Jedes Wharf",
+      "type": "text",
+      "text": {
+        "content": "<p>This small and simple wharf is almost unregulated. There is no shipwright and no Seaman’s Guild, and river traffic is light. The boatman, Uril of Tone (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.FjnJERZ60pofwIRF]{[12] Boatman Uril of Tone}), is tasked by the constable to keep the wharf in good repair and collect wharfage, from which Uril himself is exempt as payment for these duties. The few other boats using the wharf are charged a flat rate of ¾d per foot per day.</p>",
+        "format": 1
+      },
+      "_id": "rueA6H9lNpZnumIr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.rueA6H9lNpZnumIr"
+    },
+    {
+      "name": "[CF] The Castle Field",
+      "type": "text",
+      "text": {
+        "content": "<p>A four-foot-high stone wall encloses a clearing adjacent to the keep known as the castle field. Although the wall will not stop a determined trespasser, the combination of brambles along the outside, rose bushes along the inside, and fiercely territorial geese running free in the yard make trespassing uncomfortable.</p>\n<p>A large L-shaped stone-and-wooden building stands within the castle field, to the east of the keep. For practical reasons, and also because the keep is not large enough to house all the staff, the light horse squadron, the bonded ostler, and the bonded weaponcrafter are quartered here. This building also houses the stables.</p>\n<ul>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.zGSR0kjUWkHgwtqE]{[C1] The Stables}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.xzXG5ok7wKcIzaHT]{[C2] Common Room}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.qzZISTyOwOVAhtAL]{[C3] Weaponcrafter’s Workshop}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.BWOEd58mAjObyPHH]{[C4] Ostler’s Workshop}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.lbEC85Ot4qydUd4r]{[C5] 1st Manus LH Bunkroom}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.UEmxspInCFDQWlYe]{[C6] 2nd Manus LH Bunkroom}</li>\n<li>@UUID[JournalEntry.oQwxtQYEoZPtOKht.JournalEntryPage.1EYrGTCQtSwqt94v]{[C7] Guard Commander’s Quarters}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "ClJKDDjFVKqEcY9D",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.ClJKDDjFVKqEcY9D"
+    },
+    {
+      "name": "[C] Jedes Market",
+      "type": "text",
+      "text": {
+        "content": "<p>The regular market, which takes place four times a month, is held in this large open area. The market opens soon after dawn and ends early after noon. Most local guildsmen, other than the ostlers, operate stalls at each market. Other regular stallholders include the fisherwoman Anle of Ornelt (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.Yr7pR0QfncDqbW11]{[14] Fisherwoman Anle of Ornelt}), Gefrin of Garyx, the metalsmith from Belgie, Nyla of Wardle (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.fB839tuXpwA9chBb]{[5] Cook/Labourer Bardon of Wardle}), and Cyrael of Urnelt (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.OIKjjNwr7QdtsOKo]{[18] Mercantyler Cyrael of Urnelt}).</p>\n<p>Guildsmen from across the hundred attend at least one market a month. Some guilds are organised enough to divide the market days between themselves; the hundred’s four salters each attend one market each month. On most market days, at least four of the hundred’s six journeymen masters [see <a href=\"https://www.lythia.com/harnworld/settlements/asolade-hundred/\">Asolade Hundred</a> p5] will have stalls. The apothecary, Matilda of Faury, never misses market day. Darik of Sed, the weaponcrafter, only attends the second and fourth markets, if he attends at all. The keep’s bonded weaponcrafter, Barda of Cets, has a stall on the first and third market days, where she sells arrows, daggers, and other common weapons.</p>",
+        "format": 1
+      },
+      "_id": "xhs984mEeukN3HsC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.xhs984mEeukN3HsC"
+    },
+    {
+      "name": "[K] The Keep Image",
+      "src": "modules/hm-loc-jedes/assets/images/jedes-keep.webp",
+      "type": "image",
+      "image": {
+        "caption": "[K] The Keep"
+      },
+      "_id": "Mh3PcEm6MhbdYkwR",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.Mh3PcEm6MhbdYkwR"
+    },
+    {
+      "name": "[K] The Keep",
+      "src": "modules/hm-loc-jedes/assets/images/jedes-keep.webp",
+      "type": "text",
+      "image": {
+        "caption": "[K] The Keep"
+      },
+      "_id": "yKT1xpddgfYt2ac8",
+      "text": {
+        "content": "<p><img style=\"float:left;margin-right:8px\" src=\"modules/hm-loc-jedes/assets/images/jedes-keep.webp\" width=\"309\" height=\"514\" /></p>\n<p>The keep is a D-shaped tower made from local granite. At its highest point it stands some 100 feet above the river, commanding outstanding views of the surrounding countryside.</p>\n<p>When the keep was repaired, between 605 and 625, Clan Dariune had the collapsed rear wall rebuilt into a semi-circle. The mason overseeing the reconstruction, Egbert of Noss, convinced the earl that the original keep’s rectangular shape had contributed to its collapse once undermined by the river. Egbert had a temporary dam erected, the water pumped out, and the river gravel excavated down to bedrock. The rear wall of the keep now stands on solid rock.</p>\n<p>The main entrance is via a drawbridge over a narrow moat, which cuts across a man-made slope leading up to the keep. This entrance is further protected by a set of double doors, a corridor through the wall, and another iron-bound and barred set of doors. A second, smaller postern door, which only the servants use, is accessed via a narrow removable wooden bridge. From dawn to dusk one guard always patrols between the two doors.</p>\n<p>Plans to add a portcullis have been drawn up. The portcullis, and alterations to the postern gate, could be implemented under the written instructions of Earl Dariune “at the discretion of the constable, in the event of any future civil unrest”.</p>\n<ul style=\"clear:left\">\n<li><strong>Basement</strong>\n<ul style=\"clear:left\">\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.MfX8vNGfgcU3Q88w]{[K0a] Cellar}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.q1tAWl1UBvWZMfKw]{[K0b] Oubliette}</li>\n</ul>\n</li>\n<li><strong>Ground Floor</strong> (entrance to the Keep)\n<ul>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.qEJ66c3mHNdcjgK8]{[KGa] Small Hall}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.dn74u5wnr27Dd9xe]{[KGb] Barracks}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.6QwANGpFBLZpufHG]{[KGc] Kitchen}</li>\n</ul>\n</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.M6thuqHYdaA7HD9o]{[K1] The Great Hall}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.YfjsA9B1NNK5FN5W]{[K2] Ladies’ Gallery and Solar}</li>\n<li><strong>Third Floor</strong>\n<ul>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.2f93A4bIvvnZJEFL]{[K31] The Upper Hall}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.ngojMxMuYxvf3oIz]{[K32] The Steward and the Herald}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.iJVj1iYcGhYhIUBQ]{[K33] The Chancellor}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.YtyoHd3mx1Raasuz]{[K34] The Chaplain}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.7ny2OEBFQt9DxzBw]{[K35] The Chamberlain}</li>\n</ul>\n</li>\n<li><strong>Fourth Floor</strong>\n<ul>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.NxcZTTWUFMaW0AjB]{[K41] The Constable}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.CXriaZydBKhSMRXF]{[K42] The Royal Chamber}</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.zQr8JOwmpy3yLdJF]{[K43] The Chapel}</li>\n</ul>\n</li>\n<li>@UUID[JournalEntry.wRACXAvN6azy3dsD.JournalEntryPage.nKvUsoXOYI3g7tU1]{[K5] Roof and Towers}</li>\n</ul>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kecxmRGl62Xgs1TP.yKT1xpddgfYt2ac8"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204566778,
+    "modifiedTime": 1659204566778,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "kecxmRGl62Xgs1TP",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!kecxmRGl62Xgs1TP"
+}

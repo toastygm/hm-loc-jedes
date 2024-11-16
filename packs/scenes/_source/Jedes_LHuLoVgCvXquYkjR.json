@@ -1,0 +1,1980 @@
+{
+  "_id": "LHuLoVgCvXquYkjR",
+  "name": "Jedes",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/LHuLoVgCvXquYkjR-thumb.webp",
+  "width": 2062,
+  "height": 2700,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 59,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 50,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1635220310939,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "gcwYchRhfgVZTaAP",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 404,
+      "y": 1326,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "4bdErpv7myjfJV3T",
+      "text": "[1] Hideworker Laldyne of Kariune",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.gcwYchRhfgVZTaAP"
+    },
+    {
+      "_id": "XJW3rY8pSBgBU1rw",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 629,
+      "y": 1349,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "gXOPQWazZfS2TbHf",
+      "text": "[2] Ratter/Animal Trainer Hectur of Kariune",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.XJW3rY8pSBgBU1rw"
+    },
+    {
+      "_id": "PkPau0YGijS8fIEl",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 960,
+      "y": 1304,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "xq3Keucw7miWgNgd",
+      "text": "[3] Metalsmith Alen of Asane",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.PkPau0YGijS8fIEl"
+    },
+    {
+      "_id": "UIp7Q9ibBb8hginD",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 913,
+      "y": 1215,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/85388270_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "aTqDevwQ00LovFG7",
+      "text": "[4] Miller Neldel of Kerelin",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.UIp7Q9ibBb8hginD"
+    },
+    {
+      "_id": "qwFha6zet9tgkOLs",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1062,
+      "y": 1253,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/f17e18ad_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "fB839tuXpwA9chBb",
+      "text": "[5] Cook/Labourer Bardon of Wardle",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.qwFha6zet9tgkOLs"
+    },
+    {
+      "_id": "6aVymGFpfPIrHeQH",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1181,
+      "y": 1248,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/fc9e30e6_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "NiAqOIMHJZtIwQmS",
+      "text": "[6] Yeoman (Medium Foot) Orbil of Arlia",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.6aVymGFpfPIrHeQH"
+    },
+    {
+      "_id": "KTBRrW1rU2YHM2gE",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1591,
+      "y": 1197,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b30edda3_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "EHBdpvSwx8j1Xf6P",
+      "text": "[7] Teamster Grasen of Wardle",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.KTBRrW1rU2YHM2gE"
+    },
+    {
+      "_id": "zI9YvtztXeQp7QPM",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1663,
+      "y": 1189,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/d1741b8c_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "AJCX7KbAPbJYmfwp",
+      "text": "[8] Cartographer/Scribe Kanosh of Aphria",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.zI9YvtztXeQp7QPM"
+    },
+    {
+      "_id": "0lUKcmSAFOvlENwo",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1754,
+      "y": 1167,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/60cd6d9_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "VXJQbpK7mP45n64Q",
+      "text": "[9] Mercantyler Coner of Kleve",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.0lUKcmSAFOvlENwo"
+    },
+    {
+      "_id": "eQMnNjLSrEqw88mj",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1702,
+      "y": 1128,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/62e5ec17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "kNNSiP0IOo3RUbpj",
+      "text": "[10] Longshoreman Grath of Dant",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.eQMnNjLSrEqw88mj"
+    },
+    {
+      "_id": "sl96vLv8uTlnYbWt",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1684,
+      "y": 1022,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/6d608a3c_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lN8nmnACache1err",
+      "text": "[11] Woodcrafter Hogarth of Arlia",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.sl96vLv8uTlnYbWt"
+    },
+    {
+      "_id": "b42wLyWZlnwwFBDb",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1752,
+      "y": 985,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/902f0409_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "FjnJERZ60pofwIRF",
+      "text": "[12] Boatman Uril of Tone",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.b42wLyWZlnwwFBDb"
+    },
+    {
+      "_id": "hGONufIHj3Od4ni1",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1838,
+      "y": 1009,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/a4c0cd76_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "WwfQAuK0BGGtXoxg",
+      "text": "[13] Fisherman Zubain Arlia",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.hGONufIHj3Od4ni1"
+    },
+    {
+      "_id": "g97hQPxOw4l1fN0M",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1823,
+      "y": 1069,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/a29abe1b_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Yr7pR0QfncDqbW11",
+      "text": "[14] Fisherwoman Anle of Ornelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.g97hQPxOw4l1fN0M"
+    },
+    {
+      "_id": "cosbMASRfXrnLn9M",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1828,
+      "y": 1122,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "15",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/f7a89e40_15.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "wJ2ry3uYh5tcGvFQ",
+      "text": "[15] Fisherman Hadrik of Arlia",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.cosbMASRfXrnLn9M"
+    },
+    {
+      "_id": "aiUET5XKckEsG8i3",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1836,
+      "y": 1169,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "16",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/cc88b9bd_16.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "YE4JKLMW3tNT8AYU",
+      "text": "[16] Inn: The Fallen Tower",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.aiUET5XKckEsG8i3"
+    },
+    {
+      "_id": "uyWLjWvO9qB2YbD5",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1974,
+      "y": 1153,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "17",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/a05d517a_17.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "TuahConctJkKcRJT",
+      "text": "[17] Brothel Erissa of Dryt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.uyWLjWvO9qB2YbD5"
+    },
+    {
+      "_id": "9SD8g8G5BZlWAN7k",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2118,
+      "y": 1143,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "18",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/a26a4aaf_18.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "OIKjjNwr7QdtsOKo",
+      "text": "[18] Mercantyler Cyrael of Urnelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.9SD8g8G5BZlWAN7k"
+    },
+    {
+      "_id": "5swzQDLDjSfPE92f",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2176,
+      "y": 1282,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "19",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/f6b10974_19.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "WcjkbDRLPJp83ir1",
+      "text": "[19] Potter Ulstin of Darion",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.5swzQDLDjSfPE92f"
+    },
+    {
+      "_id": "wycv4dQpY9oBxwpI",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2161,
+      "y": 1383,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "20",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/6f92adc4_20.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "mWVPfDu5xz8NNbPG",
+      "text": "[20] Hunter/Trapper Tes of Eldin",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.wycv4dQpY9oBxwpI"
+    },
+    {
+      "_id": "EnCLrY2fJjycMBlO",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2130,
+      "y": 1538,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "21",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/6476a12f_21.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ByPsLTVPZbC2pH87",
+      "text": "[21] Gong Farmer Kymond of Tebesty",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.EnCLrY2fJjycMBlO"
+    },
+    {
+      "_id": "7cr0qd4Xz6HNzTrH",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2150,
+      "y": 1603,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "22",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/1e923eb2_22.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "JKNCIGS3E1t78l0C",
+      "text": "[22] Labourer Elkar of Kariune",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.7cr0qd4Xz6HNzTrH"
+    },
+    {
+      "_id": "RO9zJy2i7Ow06uDH",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2146,
+      "y": 1663,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "23",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/8bd9f23d_23.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "VvBNcsJPCkFgCYYx",
+      "text": "[23] Labourer Jeris of Nid",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.RO9zJy2i7Ow06uDH"
+    },
+    {
+      "_id": "OQaM9Vk4xKs32xHz",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2117,
+      "y": 1725,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "24",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/c6e408a8_24.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "nJExuadze73SUiat",
+      "text": "[24] Labourer Gunart of Barlis",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.OQaM9Vk4xKs32xHz"
+    },
+    {
+      "_id": "D2zp74ALKxRcA11F",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2117,
+      "y": 1787,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "25",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/233b9d33_25.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "j1xK1lnTxQK15C41",
+      "text": "[25] Servant Elarit of Veris",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.D2zp74ALKxRcA11F"
+    },
+    {
+      "_id": "R6ynMwp6kClgXvSt",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2171,
+      "y": 1900,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "26",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/e56f94f6_26.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rdidSksjuMD1qkRO",
+      "text": "[26] Tutor/Scribe Josith of Aphria",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.R6ynMwp6kClgXvSt"
+    },
+    {
+      "_id": "ggvZen6TP35uZl0w",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2115,
+      "y": 2021,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "27",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b96cc491_27.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "VA1QR7XhL2G2JxXG",
+      "text": "[27] Half-Villein Edras of Dyrl",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.ggvZen6TP35uZl0w"
+    },
+    {
+      "_id": "ziYUwaXSeTPWg2qC",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 2105,
+      "y": 2115,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "28",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/ab5433bc_28.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "uWwoH0nk0abNdO2e",
+      "text": "[28] Villein Sendalyn of Urnelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.ziYUwaXSeTPWg2qC"
+    },
+    {
+      "_id": "QrJSSa9aVKqCY6eF",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1753,
+      "y": 2219,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "29",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b2c95007_29.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "buLRp0JUi9nDwIwl",
+      "text": "[29] Ostler Brod of Heriel",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.QrJSSa9aVKqCY6eF"
+    },
+    {
+      "_id": "UiiJehl6MSB3vDdf",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1467,
+      "y": 2254,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "30",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/78bdfd11_30.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "cKIvaKdzSgW4ZiNJ",
+      "text": "[30] Chapel of Peoni",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.UiiJehl6MSB3vDdf"
+    },
+    {
+      "_id": "61tc3dHSKRWRtn0C",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1421,
+      "y": 2531,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "31",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/5f410632_31.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "1GvHce8RNtwroHjK",
+      "text": "[31] Herder Burdil of Meriel",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.61tc3dHSKRWRtn0C"
+    },
+    {
+      "_id": "vt3cEYBRHvgzWgsZ",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1492,
+      "y": 2647,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "32",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/23c7d9af_32.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Mg9iusUb8DU2Frdn",
+      "text": "[32] Half-Villein Kabir of Urnelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.vt3cEYBRHvgzWgsZ"
+    },
+    {
+      "_id": "8uiynySWfrHhdwgq",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1464,
+      "y": 2725,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "33",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/764b0f40_33.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "SX8vtSdC3GZTFmTh",
+      "text": "[33] Half-Villein Terlin of Kyngen",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.8uiynySWfrHhdwgq"
+    },
+    {
+      "_id": "vx3scWwHBBY3WVa0",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1411,
+      "y": 2790,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "34",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/159d6165_34.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "gcNYQB8p2eFD4qjt",
+      "text": "[34] Woodward Jorin of Merek",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.vx3scWwHBBY3WVa0"
+    },
+    {
+      "_id": "0MzAD6n3A94frQId",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1272,
+      "y": 2194,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "35",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/261e5c76_35.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "B76xKMzt3TGEcjqb",
+      "text": "[35] Cottar Fortil of Kyngen",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.0MzAD6n3A94frQId"
+    },
+    {
+      "_id": "W5k7zXlcI6lTaggt",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 898,
+      "y": 1924,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "36",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/e28cd5b3_36.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "mbqeiW5zrmTX1fmZ",
+      "text": "[36] Yeoman (Light Foot) Mytel of Gwyfid",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.W5k7zXlcI6lTaggt"
+    },
+    {
+      "_id": "XM09kNf86Ge8FDYW",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 842,
+      "y": 1881,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "37",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b0417544_37.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "eadJWNsv32xF5tE6",
+      "text": "[37] Cottar Goris of Ornelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.XM09kNf86Ge8FDYW"
+    },
+    {
+      "_id": "JrndO5BaNjOPk58j",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 948,
+      "y": 1780,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "38",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/ed17509_38.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "HKw9O1JK3DGPr5Ve",
+      "text": "[38] Reeve Peser of Luren",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.JrndO5BaNjOPk58j"
+    },
+    {
+      "_id": "E7MWfLBJy2je5Wdv",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 924,
+      "y": 1712,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "39",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b0bfc4aa_39.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "98K7grYZw3RWX0A8",
+      "text": "[39] Cottar Hurdir of Kerelin",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.E7MWfLBJy2je5Wdv"
+    },
+    {
+      "_id": "qrJe2kdyGi5mEZ2c",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 906,
+      "y": 1655,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "40",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/61ed6186_40.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DfZpY6N0ezlP3uuF",
+      "text": "[40] Villein Carevic of Merek",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.qrJe2kdyGi5mEZ2c"
+    },
+    {
+      "_id": "0KsaqEs3BjZluN6Q",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 840,
+      "y": 1427,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "41",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/d4ee99e5_41.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "aYAiVvDmjgizGi1B",
+      "text": "[41] Yeoman (Shortbow) Tornyn of Ornelt",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.0KsaqEs3BjZluN6Q"
+    },
+    {
+      "_id": "nIRx2QW5EVlTtrEd",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 939,
+      "y": 1385,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "42",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/458679a8_42.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Ncc0BivxtNFt29aZ",
+      "text": "[42] Villein Roras of Gwyfid",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.nIRx2QW5EVlTtrEd"
+    },
+    {
+      "_id": "TlHcIRNpJUkKGcre",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1170,
+      "y": 1370,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "43",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/3426df07_43.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "gTnFTkcd4MdIsMuC",
+      "text": "[43] Ostler Iriel of Haskew",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.TlHcIRNpJUkKGcre"
+    },
+    {
+      "_id": "aqF3swoOqPDuM16S",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1259,
+      "y": 1326,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "44",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/9fefcdb2_44.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "GN4cLIm8GOduweHC",
+      "text": "[44] Thatcher Sen of Nid",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.aqF3swoOqPDuM16S"
+    },
+    {
+      "_id": "wm8Qgpaa2cb5nVY0",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1340,
+      "y": 1327,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "45",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/2f608781_45.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Flydh3Eguee7ods6",
+      "text": "[45] Yeoman (Light Horse) Jethal of Arlia",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.wm8Qgpaa2cb5nVY0"
+    },
+    {
+      "_id": "unpjqx5w0e8LO7nw",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1585,
+      "y": 1282,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "46",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/b8bd5ff4_46.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DYrVXFA5exWdBFsA",
+      "text": "[46] Villein Dabrath of Kerelin",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.unpjqx5w0e8LO7nw"
+    },
+    {
+      "_id": "1HCx5g2ZPn30YsJ3",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1666,
+      "y": 1261,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "47",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/f9dcea43_47.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "2j1E9o2OqChlh0sx",
+      "text": "[47] Half-Villein Sholas of Kyngen",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.1HCx5g2ZPn30YsJ3"
+    },
+    {
+      "_id": "AZY7wpa72oVhfSty",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1806,
+      "y": 1244,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "48",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/736716de_48.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "963D0ppe2iUYjpL5",
+      "text": "[48] Villein Medrek of Luren",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.AZY7wpa72oVhfSty"
+    },
+    {
+      "_id": "Fx1odDtcE96TzYn1",
+      "entryId": "zzkVUITtfDwb7Na8",
+      "x": 1959,
+      "y": 1253,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "49",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/a7c633d_49.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "awVUSGlMHpHtMfCQ",
+      "text": "[49] Beggar Lorin of Dant",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.Fx1odDtcE96TzYn1"
+    },
+    {
+      "_id": "TkpCwriqbvD0MM3f",
+      "entryId": "kecxmRGl62Xgs1TP",
+      "x": 1586,
+      "y": 1604,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "A",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/29bf5f81_A.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "btE5BjeG3UlQ0U0O",
+      "text": "[A] Jedes Common (Tourney Field)",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.TkpCwriqbvD0MM3f"
+    },
+    {
+      "_id": "UUi6XnelBuh8t5YE",
+      "entryId": "kecxmRGl62Xgs1TP",
+      "x": 1815,
+      "y": 856,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "B",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/add9baaa_B.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rueA6H9lNpZnumIr",
+      "text": "[B] Jedes Wharf",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.UUi6XnelBuh8t5YE"
+    },
+    {
+      "_id": "VjRfpZrBEn39HMjr",
+      "entryId": "kecxmRGl62Xgs1TP",
+      "x": 1444,
+      "y": 1115,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "C",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/afe34607_C.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "xhs984mEeukN3HsC",
+      "text": "[C] Jedes Market",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.VjRfpZrBEn39HMjr"
+    },
+    {
+      "_id": "TzxzbCkNll7a9i4Y",
+      "entryId": "kecxmRGl62Xgs1TP",
+      "x": 1106,
+      "y": 984,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "CF",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/78aa72d3_CF.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ClJKDDjFVKqEcY9D",
+      "text": "[CF] The Castle Field",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.TzxzbCkNll7a9i4Y"
+    },
+    {
+      "_id": "WN1uJd3LU487FEzP",
+      "entryId": "kecxmRGl62Xgs1TP",
+      "x": 867,
+      "y": 878,
+      "iconSize": 44,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "K",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-jedes/assets/journal-icon-numbers/680c8a0f_K.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "yKT1xpddgfYt2ac8",
+      "text": "[K] The Keep",
+      "global": false,
+      "_key": "!scenes.notes!LHuLoVgCvXquYkjR.WN1uJd3LU487FEzP"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Scene.Llpv9VxiH2L4TAr9",
+      "source-module": "hm-loc-jedes",
+      "packed-with-version": "2.3.17",
+      "hash": "748a644d5c895bc062697529950d218bbcfcc07e"
+    },
+    "exportSource": {
+      "world": "convert",
+      "system": "hm3",
+      "coreVersion": "0.8.8",
+      "systemVersion": "1.2.20"
+    },
+    "hm-loc-jedes": {
+      "imported": "1.1.0"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-jedes.scenes.LHuLoVgCvXquYkjR"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-jedes/assets/scenes/jedes-map.webp",
+    "offsetX": 5,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204580569,
+    "modifiedTime": 1659204580569,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!LHuLoVgCvXquYkjR"
+}
