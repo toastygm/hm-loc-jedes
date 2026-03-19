@@ -1,14 +1,14 @@
 # Dependency directories
-node_modules/
+/node_modules/
 
 # dotenv environment variables file
-.env
-.env.test
-.env.local
+/.env
+/.env.test
+/.env.local
 
 # AI
 /.claude/
-/.github/copilot-instructions.md
+.github/copilot-instructions.md
 CLAUDE.md
 AI.md
 
@@ -17,7 +17,6 @@ AI.md
 /*.code-workspace
 
 # macOS specific files
-# general
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -36,12 +35,7 @@ AI.md
 
 # Build files
 /build/
-/coverage/
-/css/
 
 # Hidden files
 /nogit/
 *.wip
-
-# Foundry VTT Packs
-/packs/
